@@ -1,0 +1,1372 @@
+weapon_name,weapon_class,damage_raw,knockback_raw,crit_raw,use_time_raw,source,source_url,damage,knockback,crit_chance,use_time
+"Abigail's Flower (Desktop, Console and Mobile versions)",Summon,6,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,2,NA,36
+"Acorn Slingshot (Desktop, Console and Mobile versions)",Unclassified,5,4,-,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,5,4,NA,20
+Adamantite Chainsaw,Melee,33,4.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,33,4.5,4,15
+Adamantite Drill,Melee,20,"0.5 (Extremely weak) (Desktop, Console and Mobile versions) / 0 (No knockback) (Old-gen console and 3DS versions)",4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,0.5,4,15
+Adamantite Glaive,Melee,49,6,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,49,6,4,25
+Adamantite Pickaxe,Melee,20,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,5,4,25
+Adamantite Repeater,Ranged,42,2.5,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,42,2.5,4,18
+Adamantite Sword,Melee,61,6,4%,21,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,61,6,4,21
+Adamantite Waraxe,Melee,43,7,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,43,7,4,35
+"Aerial Bane (Desktop, Console and Mobile versions)",Ranged,38,4.5,7%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,38,4.5,7,30
+"Ale Tosser (Desktop, Console and Mobile versions)",Ranged,32,4,4%,32,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,32,4,4,32
+"Amarok (Desktop, Console and Mobile versions)",Melee,47,2.8,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,47,2.8,4,25
+"Amazon (Desktop, Console and Mobile versions)",Melee,18,3.75,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,3.75,4,25
+"Amber Staff (Desktop, Console and Mobile versions)",Magic,21,4.75,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,21,4.75,4,28
+Amethyst Staff,Magic,15,3.25,4%,37,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,3.25,4,37
+Anchor,Melee,70,8,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,8,4,20
+Aqua Scepter,Magic,27,7,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,27,7,4,16
+"Arc Surge (Desktop, Console and Mobile versions)",Magic,180,4,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,180,4,4,18
+"Arkhalis (Desktop, Console and Mobile versions)",Melee,25,4,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,4,4,25
+"Artery (Desktop, Console and Mobile versions)",Melee,17,4,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,4,4,25
+"Ash Wood Bow (Desktop, Console and Mobile versions)",Ranged,10,0,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,0,4,25
+"Ash Wood Hammer (Desktop, Console and Mobile versions)",Melee,9,5.5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,5.5,4,30
+"Ash Wood Sword (Desktop, Console and Mobile versions)",Melee,13,5,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,5,4,17
+"Axe of Regrowth (Desktop, Console and Mobile versions)",Melee,20,5,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,5,4,24
+"Axearang (Desktop, Console and Mobile versions)",Melee,20,5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,5,4,20
+Ball O' Hurt,Melee,30,5.5,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,5.5,4,45
+"Ballista Cane (Desktop, Console and Mobile versions)",Summon,74,4.7,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,74,4.7,NA,30
+"Ballista Rod (Desktop, Console and Mobile versions)",Summon,30,4.7,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,4.7,NA,30
+"Ballista Staff (Desktop, Console and Mobile versions)",Summon,156,4.7,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,156,4.7,NA,30
+Bananarang,Melee,45,6.5,4%,11,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,6.5,4,11
+"Barnacle Staff (Desktop, Console and Mobile versions)",Summon,33,7.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,33,7.5,NA,30
+"Barrel Launcher (Desktop, Console and Mobile versions)",Ranged,100,8,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,8,4,40
+"Bat Bat (Desktop, Console and Mobile versions)",Melee,36,5.5,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,36,5.5,4,40
+Bat Scepter,Magic,45,3,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,3,4,12
+Beam Sword,Melee,52,6.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,52,6.5,4,20
+Bee Gun,Magic,9,0.25,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,0.25,4,12
+Bee Keeper,Melee,30,5.3,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,5.3,4,20
+Beenade,Ranged,12,1,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,1,4,15
+"Betsy's Wrath (Desktop, Console and Mobile versions)",Magic,100,7,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,7,4,20
+Blade of Grass,Melee,18,4.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,4.5,4,20
+"Blade Staff (Desktop, Console and Mobile versions)",Summon,6,0,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,0,NA,36
+Bladed Glove,Melee,14,4,4%,8,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,4,4,8
+"Bladetongue (Desktop, Console and Mobile versions)",Melee,55,5.75,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,55,5.75,4,28
+Blizzard Staff,Magic,58,4.5,4%,10,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,58,4.5,4,10
+Blood Butcherer,Melee,22,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,22,5,4,25
+Blood Lust Cluster,Melee,22,6,4%,32,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,22,6,4,32
+"Blood Rain Bow (Desktop, Console and Mobile versions)",Ranged,14,3,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,3,4,19
+"Blood Thorn (Desktop, Console and Mobile versions)",Magic,40,1,4%,33,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,1,4,33
+"Blood Water (Desktop, Console and Mobile versions)",Unclassified,20,3,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,3,NA,15
+Bloody Machete,Melee,20,5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,5,4,15
+Blowgun,Ranged,27,4,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,27,4,4,35
+Blowpipe,Ranged,9,3.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,3.5,4,25
+Blue Moon,Melee,54,6,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,54,6,4,45
+Blue Phaseblade,Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+Blue Phasesaber,Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+Blue Rocket,Unclassified,-1,0,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,-1,0,NA,15
+Bomb,Unclassified,100,8,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,8,NA,25
+"Bomb Fish (Desktop, Console and Mobile versions)",Unclassified,100,8,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,8,NA,25
+Bone,Ranged,20,2.3,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,2.3,4,12
+"Bone Javelin (Desktop, Console and Mobile versions)",Ranged,20,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,5,4,25
+Bone Pickaxe,Melee,8,3,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,3,4,19
+Bone Sword,Melee,19,5.5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,5.5,4,22
+"Bone Throwing Knife (Desktop, Console and Mobile versions)",Ranged,14,1.5,4%,14,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,1.5,4,14
+Book of Skulls,Magic,29,3.5,4%,32,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,29,3.5,4,32
+Boomstick,Ranged,14,5.75,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,5.75,4,40
+"Boreal Wood Bow (Desktop, Console, Old-gen console and Mobile versions)",Ranged,6,0,4%,29,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,0,4,29
+"Boreal Wood Hammer (Desktop, Console, Old-gen console and Mobile versions)",Melee,4,5.5,4%,33,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,5.5,4,33
+"Boreal Wood Sword (Desktop, Console, Old-gen console and Mobile versions)",Melee,8,6,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,6,4,20
+"Bouncy Bomb (Desktop, Console and Mobile versions)",Unclassified,100,8,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,8,NA,25
+"Bouncy Dynamite (Desktop, Console and Mobile versions)",Unclassified,250,10,-,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,250,10,NA,40
+"Bouncy Grenade (Desktop, Console and Mobile versions)",Ranged,65,8,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,65,8,4,40
+"Brand of the Inferno (Desktop, Console and Mobile versions)",Melee,95,6.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,95,6.5,4,20
+Breaker Blade,Melee,70,8,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,8,4,35
+Breathing Reed,Melee,10,4,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,4,4,27
+Bubble Gun,Magic,70,3,4%,9,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,3,4,9
+Bunny Cannon,Unclassified,NA,NA,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,NA,NA,NA,15
+"Butcher's Chainsaw (Desktop, Console and Mobile versions)",Melee,120,8,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,120,8,4,15
+Cactus Pickaxe,Melee,4,2,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,2,4,25
+Cactus Sword,Melee,10,4.5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,4.5,4,30
+"Candy Cane Pickaxe (Desktop, Console, Old-gen console and Mobile versions)",Melee,7,2.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,2.5,4,20
+"Candy Cane Sword (Desktop, Console, Old-gen console and Mobile versions)",Melee,19,5.3,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,5.3,4,27
+Candy Corn Rifle,Ranged,60,2,10%,9,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,2,10,9
+Cannon,Unclassified,NA,NA,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,NA,NA,NA,15
+"Cascade (Desktop, Console and Mobile versions)",Melee,27,4.3,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,27,4.3,4,25
+"Cattiva (Desktop, Console and Mobile versions)",Summon,11,2,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,11,2,NA,15
+"Celebration (Desktop, Console and Mobile versions)",Ranged,25,4,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,4,4,30
+"Celebration Mk2 (Desktop, Console and Mobile versions)",Ranged,50,10,4%,6 (Insanely fast)(see notes for more info),Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,10,4,6
+"Chain Guillotines (Desktop, Console and Mobile versions)",Melee,59,3.25,4%,14,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,59,3.25,4,14
+Chain Gun,Ranged,38,1.75,4%,4,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,38,1.75,4,4
+Chain Knife,Melee,12,3.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,3.5,4,20
+"Charged Blaster Cannon (Desktop, Console and Mobile versions)",Magic,100,2,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,2,4,20
+"Chik (Desktop, Console and Mobile versions)",Melee,39,3.3,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,39,3.3,4,25
+Chlorophyte Chainsaw,Melee,50,4.6,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,4.6,4,15
+Chlorophyte Claymore,Melee,95,6,4%,32,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,95,6,4,32
+Chlorophyte Drill,Melee,35,1,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,1,4,15
+Chlorophyte Greataxe,Melee,70,7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,7,4,30
+Chlorophyte Jackhammer,Melee,45,5.2,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,5.2,4,15
+Chlorophyte Partisan,Melee,49,6.2,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,49,6.2,4,23
+Chlorophyte Pickaxe,Melee,40,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,5,4,25
+Chlorophyte Saber,Melee,80,5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,5,4,30
+Chlorophyte Shotbow,Ranged,34,2.75,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,34,2.75,4,19
+Chlorophyte Warhammer,Melee,80,8,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,8,4,35
+Christmas Tree Sword,Melee,86,7,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,86,7,4,23
+"Classy Cane (Desktop, Console and Mobile versions)",Melee,40,3.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,3.5,4,15
+"Clay Bud Staff (Desktop, Console and Mobile versions)",Summon,5,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,5,2,NA,36
+"Clinger Staff (Desktop, Console and Mobile versions)",Magic,43,8,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,43,8,4,24
+Clockwork Assault Rifle,Ranged,17,0,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,0,4,12
+Cobalt Chainsaw,Melee,23,2.75,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,23,2.75,4,15
+Cobalt Drill,Melee,10,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,0.5,4,15
+Cobalt Naginata,Melee,44,4,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,44,4,4,28
+Cobalt Pickaxe,Melee,10,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,5,4,25
+Cobalt Repeater,Ranged,35,1.5,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,1.5,4,23
+Cobalt Sword,Melee,40,5,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,5,4,19
+Cobalt Waraxe,Melee,33,5,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,33,5,4,35
+"Cobwhip (Desktop, Console and Mobile versions)",Summon,9,0.7,-,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,0.7,NA,35
+"Code 1 (Desktop, Console and Mobile versions)",Melee,21,3.25,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,21,3.25,4,25
+"Code 2 (Desktop, Console and Mobile versions)",Melee,54,3.8,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,54,3.8,4,25
+Coin Gun,Unclassified,NA,2,-,8,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,NA,2,NA,8
+"Combat Wrench (Desktop, Console and Mobile versions)",Melee,25,3.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,3.5,4,15
+"Constellation (Desktop, Console and Mobile versions)",Summon,130,4,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,130,4,NA,30
+"Cool Whip (Desktop, Console and Mobile versions)",Summon,45,1.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,1.5,NA,30
+Copper Axe,Melee,3,4.5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,3,4.5,4,30
+Copper Bow,Ranged,6,0,4%,29,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,0,4,29
+Copper Broadsword,Melee,9,5.5,4%,21,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,5.5,4,21
+Copper Hammer,Melee,4,5.5,4%,33,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,5.5,4,33
+Copper Pickaxe,Melee,4,2,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,2,4,23
+Copper Shortsword,Melee,5,4,4%,13,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,5,4,4,13
+Crimson Rod,Magic,12,0,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,0,4,24
+"Crystal Serpent (Desktop, Console and Mobile versions)",Magic,40,4.4,4%,29,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,4.4,4,29
+Crystal Storm,Magic,35,5,4%,7,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,5,4,7
+"Crystal Vile Shard (Desktop, Console and Mobile versions)",Magic,25,3,4%,33,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,3,4,33
+Cursed Flames,Magic,55,6.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,55,6.5,4,15
+Cutlass,Melee,53,4,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,53,4,4,16
+"Daedalus Stormbow (Desktop, Console and Mobile versions)",Ranged,38,2.25,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,38,2.25,4,19
+Dao of Pow,Melee,100,6,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,6,4,45
+"Dark Harvest (Desktop, Console and Mobile versions)",Summon,110,3,-,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,110,3,NA,27
+Dark Lance,Melee,34,5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,34,5,4,22
+"Dart Pistol (Desktop, Console and Mobile versions)",Ranged,28,3.5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,28,3.5,4,22
+"Dart Rifle (Desktop, Console and Mobile versions)",Ranged,52,5.5,4%,38,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,52,5.5,4,38
+"Daybloom Staff (Desktop, Console and Mobile versions)",Magic,8,3,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,3,4,40
+"Daybreak (Desktop, Console and Mobile versions)",Melee,150,5,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,150,5,4,16
+"Deadly Sphere Staff (Desktop, Console and Mobile versions)",Summon,55,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,55,2,NA,36
+Death Sickle,Melee,57,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,57,5,4,25
+Deathbringer Pickaxe,Melee,12,3.5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,3.5,4,22
+Demon Bow,Ranged,14,1,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,1,4,25
+Demon Scythe,Magic,35,5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,5,4,20
+"Desert Tiger Staff (Desktop, Console and Mobile versions)",Summon,41,2.5,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,41,2.5,NA,36
+Diamond Staff,Magic,23,5.5,4%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,23,5.5,4,26
+"Dirt Bomb (Desktop, Console and Mobile versions)",Unclassified,100,12,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,12,NA,25
+Drax,Melee,35,4.75,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,4.75,4,15
+"Drippler Crippler (Desktop, Console and Mobile versions)",Melee,110,6.5,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,110,6.5,4,40
+"Dry Bomb (Desktop, Console and Mobile versions)",Unclassified,100,12,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,12,NA,25
+"Durendal (Desktop, Console and Mobile versions)",Summon,55,2,-,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,55,2,NA,28
+Dynamite,Unclassified,250,10,-,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,250,10,NA,40
+Ebonwood Bow,Ranged,8,0,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,0,4,28
+Ebonwood Hammer,Melee,7,5.5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,5.5,4,30
+Ebonwood Sword,Melee,11,6,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,11,6,4,19
+"Electric Eel (Desktop, Console and Mobile versions)",Summon,150,3,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,150,3,NA,30
+"Electrosphere Launcher (Desktop, Console and Mobile versions)",Ranged,40,2,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,2,4,12
+Elf Melter,Ranged,57,0.425,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,57,0.42500000000000004,4,30
+Emerald Staff,Magic,19,4.25,4%,32,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,4.25,4,32
+Enchanted Boomerang,Melee,17,8,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,8,4,20
+Enchanted Sword,Melee,23,4.25,4%,21,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,23,4.25,4,21
+"Eventide (Desktop, Console and Mobile versions)",Ranged,50,2,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,2,4,30
+Excalibur,Melee,72,4.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,72,4.5,4,20
+"Exotic Scimitar (Desktop, Console and Mobile versions)",Melee,20,4.25,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,4.25,4,18
+"Explosive Trap Cane (Desktop, Console and Mobile versions)",Summon,59,0.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,59,0.5,NA,30
+"Explosive Trap Rod (Desktop, Console and Mobile versions)",Summon,24,0.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,0.5,NA,30
+"Explosive Trap Staff (Desktop, Console and Mobile versions)",Summon,126,0.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,126,0.5,NA,30
+Falcon Blade,Melee,25,6,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,6,4,20
+"Fetid Baghnakhs (Desktop, Console and Mobile versions)",Melee,60,6,4%,8,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,6,4,8
+"Finch Staff (Desktop, Console and Mobile versions)",Summon,7,4,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,4,NA,36
+"Firecracker (Desktop, Console and Mobile versions)",Summon,37,2,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,37,2,NA,30
+Flairon,Melee,132,4.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,132,4.5,4,20
+Flairoon,Melee,66,4.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,66,4.5,4,20
+Flamarang,Melee,49,8,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,49,8,4,20
+"Flameburst Cane (Desktop, Console and Mobile versions)",Summon,42,3,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,42,3,NA,30
+"Flameburst Rod (Desktop, Console and Mobile versions)",Summon,17,3,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,3,NA,30
+"Flameburst Staff (Desktop, Console and Mobile versions)",Summon,88,3,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,88,3,NA,30
+Flamelash,Magic,32,6.5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,32,6.5,4,30
+Flamethrower,Ranged,35,0.3,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,0.3,4,30
+"Flaming Mace (Desktop, Console and Mobile versions)",Melee,18,4.6,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,4.6,4,45
+Flare Gun,Unclassified,2,0,-,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,2,0,NA,18
+Flesh Grinder,Melee,23,6,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,23,6,4,40
+"Flint (Desktop, Console and Mobile versions)",Melee,70,5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,5,4,15
+Flintlock Pistol,Ranged,13,1,10%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,1,10,16
+"Flinx Staff (Desktop, Console and Mobile versions)",Summon,8,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,2,NA,36
+Flower of Fire,Magic,48,5.5,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,48,5.5,4,16
+Flower of Frost,Magic,60,6.5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,6.5,4,12
+Flower Pow,Melee,130,6.5,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,130,6.5,4,40
+"Flying Dragon (Desktop, Console and Mobile versions)",Melee,180,5.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,180,5.5,4,20
+"Flying Knife (Desktop, Console and Mobile versions)",Melee,40,4.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,4.5,4,15
+"Flymeal (Desktop, Console and Mobile versions)",Melee,15,5,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,5,4,17
+"Format:C (Desktop, Console and Mobile versions)",Melee,40,3.25,24%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,3.25,24,25
+"Fossil Pickaxe (Desktop, Console and Mobile versions)",Melee,8,4,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,4,4,18
+"Foxparks (Desktop, Console and Mobile versions)",Summon,20,3,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,3,NA,15
+"Freeze Bomb (Desktop, Console and Mobile versions)",Unclassified,0 (to enemies)1 (to user),12,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,0,12,NA,25
+"Frost Daggerfish (Desktop, Console and Mobile versions)",Ranged,17,3.5,4%,13,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,3.5,4,13
+Frost Staff,Magic,46,5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,46,5,4,12
+Frostbrand,Melee,49,4.5,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,49,4.5,4,23
+"Fruitcake Chakram (Desktop, Console, Old-gen console and Mobile versions)",Melee,19,8,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,8,4,15
+"Gatligator (Desktop, Console, Old-gen console and Mobile versions)",Ranged,21,1.5,4%,7,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,21,1.5,4,7
+"Ghastly Glaive (Desktop, Console and Mobile versions)",Melee,45,7,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,7,4,27
+"Glacier Fang (Desktop, Console and Mobile versions)",Magic,11,2,15%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,11,2,15,24
+"Gladius (Desktop, Console and Mobile versions)",Melee,15,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,3,4,18
+Gold Axe,Melee,7,4.5,4%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,4.5,4,26
+Gold Bow,Ranged,11,0,4%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,11,0,4,26
+Gold Broadsword,Melee,15,6.5,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,6.5,4,18
+Gold Hammer,Melee,9,5.5,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,5.5,4,28
+Gold Pickaxe,Melee,6,2,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,2,4,20
+Gold Shortsword,Melee,12,5,4%,11,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,5,4,11
+Golden Shower,Magic,30,4,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,4,4,18
+Golem Fist,Melee,90,12,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,90,12,4,24
+"Gradient (Desktop, Console and Mobile versions)",Melee,53,3.8,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,53,3.8,4,25
+"Gravedigger's Shovel (Desktop, Console and Mobile versions)",Melee,12,3.5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,3.5,4,22
+"Gray Zapinator (Desktop, Console and Mobile versions)",Magic,42,6,4%,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,42,6,4,36
+Green Phaseblade,Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+Green Phasesaber,Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+Green Rocket,Unclassified,-1,0,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,-1,0,NA,15
+Grenade,Ranged,60,8,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,8,4,45
+Grenade Launcher,Ranged,60,4,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,4,4,20
+Gungnir,Melee,61,6.4,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,61,6.4,4,22
+"Haemorrhaxe (Desktop, Console and Mobile versions)",Melee,30,7,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,7,4,27
+"Hallowed Jousting Lance (Desktop, Console and Mobile versions)",Melee,90,13,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,90,13,4,24
+Hallowed Repeater,Ranged,53,2.5,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,53,2.5,4,16
+"Ham Bat (Desktop, Console and Mobile versions)",Melee,57,6.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,57,6.5,4,20
+Hammush,Melee,26,7.5,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,7.5,4,27
+Handgun,Ranged,26,3,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,15
+"Happy Grenade (Desktop, Console and Mobile versions)",Ranged,30,6,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,6,4,20
+Harpoon,Ranged,25,6,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,6,4,30
+Heat Ray,Magic,90,3,4%,10,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,90,3,4,10
+"Hel-Fire (Desktop, Console and Mobile versions)",Melee,43,4.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,43,4.5,4,25
+"Hellwing Bow (Desktop, Console and Mobile versions)",Ranged,22,5.5,4%,13,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,22,5.5,4,13
+"Hive-Five (Desktop, Console and Mobile versions)",Melee,24,3.75,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,3.75,4,25
+Holy Water,Unclassified,20,3,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,3,NA,15
+"Honey Bomb (Desktop, Console and Mobile versions)",Unclassified,100,12,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,12,NA,25
+"Hornet Staff (Desktop, Console, Old-gen console and Mobile versions)",Summon,12,2,-,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,2,NA,22
+"Houndius Shootius (Desktop, Console and Mobile versions)",Summon,24,7.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,7.5,NA,30
+Ice Blade,Melee,17,4.75,6%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,4.75,6,20
+Ice Boomerang,Melee,21,8.5,6%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,21,8.5,6,20
+Ice Bow,Ranged,39,4.5,4%,14,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,39,4.5,4,14
+Ice Rod,Magic,28,2,4%,9,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,28,2,4,9
+Ice Sickle,Melee,50,5.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,5.5,4,25
+"Imp Staff (Desktop, Console, Old-gen console and Mobile versions)",Summon,17,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,2,NA,36
+Inferno Fork,Magic,70,5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,5,4,30
+"Influx Waver (Desktop, Console and Mobile versions)",Melee,100,4.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,4.5,4,20
+Iron Axe,Melee,5,4.5,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,5,4.5,4,27
+Iron Bow,Ranged,8,0,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,0,4,28
+Iron Broadsword,Melee,12,5.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,5.5,4,20
+Iron Hammer,Melee,7,5.5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,5.5,4,30
+Iron Pickaxe,Melee,5,2,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,5,2,4,20
+Iron Shortsword,Melee,8,4,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,4,4,12
+Jack 'O Lantern Launcher,Ranged,85,5,10%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,85,5,10,25
+"Javelin (Desktop, Console and Mobile versions)",Ranged,17,4.75,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,4.75,4,24
+"Jousting Lance (Desktop, Console and Mobile versions)",Melee,60,12,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,12,4,24
+"Kaleidoscope (Desktop, Console and Mobile versions)",Summon,170,4,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,170,4,NA,30
+"Katana (Desktop, Console, Old-gen console and Mobile versions)",Melee,18,3.5,19%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,3.5,19,20
+Keybrand,Melee,105,6.5,20%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,105,6.5,20,20
+"Killing Deck (Desktop, Console and Mobile versions)",Magic,22,5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,22,5,4,20
+KO Cannon,Melee,40,6.5,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,6.5,4,28
+"Kraken (Desktop, Console and Mobile versions)",Melee,120,4.3,14%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,120,4.3,14,25
+Land Mine,Unclassified,NA,NA,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,NA,NA,NA,15
+"Laser Drill (Desktop, Console and Mobile versions)",Melee,35,4.75,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,4.75,4,25
+"Laser Machinegun (Desktop, Console and Mobile versions)",Magic,60,2,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,2,4,20
+Laser Rifle,Magic,29,2.5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,29,2.5,4,12
+"Last Prism (Desktop, Console and Mobile versions)",Magic,100,0.25,4%,10,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,0.25,4,10
+"Lava Bomb (Desktop, Console and Mobile versions)",Unclassified,100,12,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,12,NA,25
+Lead Axe,Melee,6,4.5,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,4.5,4,28
+Lead Bow,Ranged,9,0,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,0,4,27
+Lead Broadsword,Melee,13,5.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,5.5,4,20
+Lead Hammer,Melee,8,5.5,4%,29,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,5.5,4,29
+Lead Pickaxe,Melee,6,2,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,2,4,19
+Lead Shortsword,Melee,9,4,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,4,4,12
+Leaf Blower,Magic,48,4,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,48,4,4,15
+"Leather Whip (Desktop, Console and Mobile versions)",Summon,14,1,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,1,NA,30
+"Life Drain (Desktop, Console and Mobile versions)",Magic,35,2.5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,2.5,4,12
+Light Disc,Melee,60,8,4%,14,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,8,4,14
+Light's Bane,Melee,16,5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,16,5,4,20
+"Lightning Aura Cane (Desktop, Console and Mobile versions)",Summon,11,0.25,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,11,0.25,NA,30
+"Lightning Aura Rod (Desktop, Console and Mobile versions)",Summon,4,0.25,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,0.25,NA,30
+"Lightning Aura Staff (Desktop, Console and Mobile versions)",Summon,34,0.25,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,34,0.25,NA,30
+"Lightning Strike (Desktop, Console and Mobile versions)",Magic,150,10,14%,55,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,150,10,14,55
+"Lucy the Axe (Desktop, Console and Mobile versions)",Melee,27,5,14%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,27,5,14,15
+"Lunar Flare (Desktop, Console and Mobile versions)",Magic,100,4.5,4%,10,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,4.5,4,10
+"Lunar Portal Staff (Desktop, Console and Mobile versions)",Summon,100,7.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,7.5,NA,30
+"Mace (Desktop, Console and Mobile versions)",Melee,18,4.6,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,4.6,4,45
+Magic Dagger,Magic,30,3.75,4%,8,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,3.75,4,8
+Magic Missile,Magic,35,7.5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,7.5,4,22
+Magical Harp,Magic,42,1.5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,42,1.5,4,12
+Magnet Sphere,Magic,48,6,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,48,6,4,20
+"Malaise (Desktop, Console and Mobile versions)",Melee,16,4.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,16,4.5,4,25
+"Mandible Blade (Desktop, Console and Mobile versions)",Melee,16,4.5,11%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,16,4.5,11,15
+Marrow,Ranged,40,4.7,9%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,4.7,9,19
+"Medusa Head (Desktop, Console and Mobile versions)",Magic,40,2,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,2,4,20
+Megashark,Ranged,25,1,4%,7,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,1,4,7
+"Meowmere (Desktop, Console and Mobile versions)",Melee,200,6.5,4%,14,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,200,6.5,4,14
+Meteor Hamaxe,Melee,20,7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,7,4,30
+"Meteor Staff (Desktop, Console and Mobile versions)",Magic,50,4.5,4%,10,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,4.5,4,10
+Minishark,Ranged,6,0,4%,8,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,0,4,8
+"Molotov Cocktail (Desktop, Console, Old-gen console and Mobile versions)",Ranged,23,7,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,23,7,4,40
+Molten Fury,Ranged,31,2,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,31,2,4,22
+Molten Hamaxe,Melee,20,7,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,7,4,27
+Molten Pickaxe,Melee,12,2,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,2,4,23
+"Morning Star (Desktop, Console and Mobile versions)",Summon,160,11,-,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,160,11,NA,35
+"Mud Ball (Desktop, Console and Mobile versions)",Unclassified,8,5.75,-,10,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,5.75,NA,10
+Muramasa,Melee,24,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,3,4,18
+Mushroom Spear,Melee,60,6.2,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,6.2,4,40
+"Mushroom Staff (Desktop, Console and Mobile versions)",Summon,8,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,2,NA,36
+Musket,Ranged,31,5.25,12%,32,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,31,5.25,12,32
+"Mystic Bloom (Desktop, Console and Mobile versions)",Magic,20,3.5,4%,42,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,3.5,4,42
+Mythril Chainsaw,Melee,29,3,4%,"15 (Very fast) (Desktop, Console and Mobile versions) /8 (Insanely fast) (Old-gen console and 3DS versions)",Terraria,https://terraria.wiki.gg/wiki/Weapons_List,29,3,4,15
+Mythril Drill,Melee,15,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,0.5,4,15
+Mythril Halberd,Melee,45,5,4%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,5,4,26
+Mythril Pickaxe,Melee,15,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,5,4,25
+Mythril Repeater,Ranged,39,2,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,39,2,4,20
+Mythril Sword,Melee,50,6,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,6,4,20
+Mythril Waraxe,Melee,39,6,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,39,6,4,35
+"Nail Gun (Desktop, Console and Mobile versions)",Ranged,85,0,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,85,0,4,15
+"Nebula Arcanum (Desktop, Console and Mobile versions)",Magic,70,5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,5,4,30
+"Nebula Axe (Desktop, Console and Mobile versions)",Melee,100,6,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,6,4,25
+"Nebula Blaze (Desktop, Console and Mobile versions)",Magic,130,3,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,130,3,4,12
+"Nebula Chainsaw (Desktop, Console and Mobile versions)",Melee,80,4,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,4,4,15
+"Nebula Drill (Desktop, Console and Mobile versions)",Melee,50,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,0.5,4,15
+"Nebula Hamaxe (Desktop, Console and Mobile versions)",Melee,60,7,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,7,4,28
+"Nebula Hammer (Desktop, Console and Mobile versions)",Melee,110,7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,110,7,4,30
+"Nebula Pickaxe (Desktop, Console and Mobile versions)",Melee,80,5.5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,5.5,4,12
+Nettle Burst,Magic,35,1,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,1,4,25
+Night's Edge,Melee,40,4.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,4.5,4,25
+"Nightglow (Desktop, Console and Mobile versions)",Magic,50,2.5,4%,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,2.5,4,36
+Nightmare Pickaxe,Melee,9,3,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,3,4,20
+Nimbus Rod,Magic,30,0,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,0,4,22
+North Pole,Melee,80,6.7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,6.7,4,30
+Obsidian Swordfish,Melee,70,6.5,24%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,6.5,24,20
+"Onyx Blaster (Desktop, Console and Mobile versions)",Ranged,24,6.5,4%,48,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,6.5,4,48
+"Optic Staff (Desktop, Console, Old-gen console and Mobile versions)",Summon,24,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,2,NA,36
+"Orange Phaseblade (Desktop, Console and Mobile versions)",Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+"Orange Phasesaber (Desktop, Console and Mobile versions)",Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+"Orange Zapinator (Desktop, Console and Mobile versions)",Magic,100,6,4%,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,6,4,36
+Orichalcum Chainsaw,Melee,31,3.75,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,31,3.75,4,15
+Orichalcum Drill,Melee,17,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,0.5,4,15
+Orichalcum Halberd,Melee,46,5.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,46,5.5,4,25
+Orichalcum Pickaxe,Melee,17,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,5,4,25
+Orichalcum Repeater,Ranged,40,2,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,2,4,19
+Orichalcum Sword,Melee,59,6,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,59,6,4,22
+Orichalcum Waraxe,Melee,41,6.5,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,41,6.5,4,35
+"Paintball Gun (Desktop, Console and Mobile versions)",Ranged,12,1.25,11%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,1.25,11,24
+Paladin's Hammer,Melee,100,9,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,9,4,15
+Palladium Chainsaw,Melee,26,2.9,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,2.9,4,15
+Palladium Drill,Melee,12,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,0.5,4,15
+Palladium Pickaxe,Melee,12,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,5,4,25
+Palladium Pike,Melee,44,4.5,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,44,4.5,4,27
+Palladium Repeater,Ranged,37,1.75,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,37,1.75,4,22
+Palladium Sword,Melee,49,5.5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,49,5.5,4,22
+Palladium Waraxe,Melee,36,5.5,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,36,5.5,4,35
+"Palm Wood Bow (Desktop, Console, Old-gen console and Mobile versions)",Ranged,6,0,4%,29,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,0,4,29
+"Palm Wood Hammer (Desktop, Console, Old-gen console and Mobile versions)",Melee,4,5.5,4%,33,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,5.5,4,33
+"Palm Wood Sword (Desktop, Console, Old-gen console and Mobile versions)",Melee,8,6,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,6,4,19
+"Paper Airplane (Desktop, Console and Mobile versions)",Ranged,4,2,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,2,4,17
+Pearlwood Bow,Ranged,12,0,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,0,4,20
+Pearlwood Hammer,Melee,10,5.5,4%,29,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,5.5,4,29
+Pearlwood Sword,Melee,30,7,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,7,4,15
+"Pew-matic Horn (Desktop, Console and Mobile versions)",Ranged,20,1,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,1,4,15
+"Phantasm (Desktop, Console and Mobile versions)",Ranged,50,2,4%,12 (Very fast)(see notes for more info),Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,2,4,12
+"Phantom Phoenix (Desktop, Console and Mobile versions)",Ranged,32,2,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,32,2,4,18
+Phoenix Blaster,Ranged,30,2,4%,14,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,2,4,14
+Pickaxe Axe,Melee,35,4.75,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,4.75,4,25
+Picksaw,Melee,34,5.5,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,34,5.5,4,16
+"Pink Phaseblade (Desktop, Console and Mobile versions)",Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+"Pink Phasesaber (Desktop, Console and Mobile versions)",Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+Piranha Gun,Ranged,40,1,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,1,4,30
+"Pirate Staff (Desktop, Console, Old-gen console and Mobile versions)",Summon,40,6,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,6,NA,36
+Platinum Axe,Melee,8,4.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,4.5,4,25
+Platinum Bow,Ranged,13,0,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,0,4,25
+Platinum Broadsword,Melee,16,6.5,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,16,6.5,4,17
+Platinum Hammer,Melee,10,5.5,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,5.5,4,27
+Platinum Pickaxe,Melee,7,2,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,2,4,19
+Platinum Shortsword,Melee,13,5,4%,10,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,5,4,10
+Poison Staff,Magic,43,5.6,4%,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,43,5.6,4,36
+Poisoned Knife,Ranged,14,2.4,8%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,2.4,8,15
+Possessed Hatchet,Melee,80,5,4%,14,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,5,4,14
+"Possession (Desktop, Console and Mobile versions)",Summon,110,4,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,110,4,NA,30
+"Power Bomb (Desktop, Console and Mobile versions)",Unclassified,200,9,-,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,200,9,NA,40
+"Pretty Mirror (Desktop, Console and Mobile versions)",Unclassified,13,3,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,3,NA,25
+Proximity Mine Launcher,Ranged,80,4,4%,50,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,4,4,50
+"Psycho Knife (Desktop, Console and Mobile versions)",Melee,85,3.5,4%,8,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,85,3.5,4,8
+"Pulse Bow (Desktop, Console, Old-gen console and Mobile versions)",Ranged,80,3,11%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,3,11,20
+Purple Clubberfish,Melee,35,8,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,8,4,35
+Purple Phaseblade,Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+Purple Phasesaber,Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+Pwnhammer,Melee,26,7.5,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,7.5,4,27
+Pygmy Staff,Summon,40,3,-,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,3,NA,28
+"Quad-Barrel Shotgun (Desktop, Console and Mobile versions)",Ranged,14,6.5,4%,55,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,6.5,4,55
+"Queen Spider Staff (Desktop, Console, Old-gen console and Mobile versions)",Summon,26,7.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,7.5,NA,30
+"Rainbow Crystal Staff (Desktop, Console and Mobile versions)",Summon,130,7.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,130,7.5,NA,30
+Rainbow Gun,Magic,45,2.5,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,2.5,4,40
+"Rainbow Phaseblade (Desktop, Console and Mobile versions)",Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+"Rainbow Phasesaber (Desktop, Console and Mobile versions)",Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+Rainbow Rod,Magic,50,6,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,6,4,25
+"Rally (Desktop, Console and Mobile versions)",Melee,14,3.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,3.5,4,25
+Raven Staff,Summon,55,3,-,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,55,3,NA,28
+Razorblade Typhoon,Magic,85,5,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,85,5,4,40
+Razorpine,Magic,48,3.25,4%,8,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,48,3.25,4,8
+Reaver Shark,Melee,16,3,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,16,3,4,22
+Red Phaseblade,Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+Red Phasesaber,Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+Red Rocket,Unclassified,-1,0,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,-1,0,NA,15
+"Red Ryder (Desktop, Console, Old-gen console and Mobile versions)",Ranged,20,3.75,4%,38,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,3.75,4,38
+"Red's Throw (Desktop, Console and Mobile versions)",Melee,70,4.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,4.5,4,25
+"Resonance Scepter (Desktop, Console and Mobile versions)",Magic,70,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,5,4,25
+"Revolver (Desktop, Console, Old-gen console and Mobile versions)",Ranged,20,4.5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,4.5,4,22
+Rich Mahogany Bow,Ranged,6,0,4%,29,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,0,4,29
+Rich Mahogany Hammer,Melee,4,5.5,4%,33,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,5.5,4,33
+Rich Mahogany Sword,Melee,8,6,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,6,4,19
+Rocket Launcher,Ranged,55,4,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,55,4,4,30
+Rockfish,Melee,24,6,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,6,4,24
+Rotten Egg,Ranged,13,6.5,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,6.5,4,19
+Ruby Staff,Magic,18,4.75,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,4.75,4,28
+"Ruinous Staff (Desktop, Console and Mobile versions)",Summon,40,4,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,4,NA,36
+"Ruler (Desktop, Console, Old-gen console and Mobile versions)",Melee,12,0.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,0.5,4,20
+"S.D.M.G. (Desktop, Console and Mobile versions)",Ranged,85,2.5,14%,5,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,85,2.5,14,5
+Sandgun,Ranged,30,5,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,5,4,16
+"Sanguine Staff (Desktop, Console and Mobile versions)",Summon,35,3,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,35,3,NA,36
+Sapphire Staff,Magic,18,4,4%,34,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,4,4,34
+Sawtooth Shark,Melee,13,2.25,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,2.25,4,15
+"Scarab Bomb (Desktop, Console and Mobile versions)",Unclassified,100,8,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,8,NA,25
+Scourge of the Corruptor,Melee,70,5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,5,4,20
+"Seedler (Desktop, Console and Mobile versions)",Melee,50,6,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,6,4,23
+"Sergeant United Shield (Desktop, Console and Mobile versions)",Melee,80,2,4%,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,2,4,36
+Shadewood Bow,Ranged,8,0,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,0,4,28
+Shadewood Hammer,Melee,7,5.5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,5.5,4,30
+Shadewood Sword,Melee,11,6,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,11,6,4,19
+"Shadow Jousting Lance (Desktop, Console and Mobile versions)",Melee,130,14,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,130,14,4,24
+Shadowbeam Staff,Magic,80,6,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,6,4,15
+"Shadowflame Bow (Desktop, Console and Mobile versions)",Ranged,47,4.5,7%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,47,4.5,7,20
+"Shadowflame Hex Doll (Desktop, Console and Mobile versions)",Magic,32,3.75,7%,21,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,32,3.75,7,21
+"Shadowflame Knife (Desktop, Console and Mobile versions)",Melee,43,5.75,7%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,43,5.75,7,12
+Shotgun,Ranged,24,6.5,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,6.5,4,45
+"Shroomerang (Desktop, Console and Mobile versions)",Melee,23,7,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,23,7,4,20
+"Shroomite Digging Claw (Desktop, Console, Old-gen console and Mobile versions)",Melee,45,6,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,6,4,12
+Shuriken,Ranged,10,0,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,0,4,15
+Sickle,Melee,9,2.25,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,2.25,4,24
+Silver Axe,Melee,6,4.5,4%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,4.5,4,26
+Silver Bow,Ranged,9,0,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,0,4,27
+Silver Broadsword,Melee,14,6,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,6,4,20
+Silver Hammer,Melee,9,5.5,4%,29,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,5.5,4,29
+Silver Pickaxe,Melee,6,2,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,2,4,19
+Silver Shortsword,Melee,9,4,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,4,4,12
+"Sky Dragon's Fury (Desktop, Console and Mobile versions)",Melee,140,5,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,140,5,4,30
+"Sky Fracture (Desktop, Console and Mobile versions)",Magic,38,6,24%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,38,6,24,12
+"Slap Hand (Desktop, Console and Mobile versions)",Melee,55,20,19%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,55,20,19,20
+"Sleepy Octopod (Desktop, Console and Mobile versions)",Melee,50,7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,7,4,30
+"Slime Spear (Desktop, Console and Mobile versions)",Melee,12,6.5,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,6.5,4,24
+Slime Staff,Summon,8,2,-,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,2,NA,28
+"Slime Whip (Desktop, Console and Mobile versions)",Summon,15,1,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,1,NA,30
+"Snapthorn (Desktop, Console and Mobile versions)",Summon,18,1.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,1.5,NA,30
+Sniper Rifle,Ranged,200,8,29%,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,200,8,29,36
+Snowball,Ranged,8,5.75,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,5.75,4,19
+Snowball Cannon,Ranged,10,1,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,1,4,19
+Snowball Launcher,Unclassified,NA,NA,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,NA,NA,NA,15
+Snowman Cannon,Ranged,67,4,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,67,4,4,15
+"Solar Eruption (Desktop, Console and Mobile versions)",Melee,105,2,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,105,2,4,20
+"Solar Flare Axe (Desktop, Console and Mobile versions)",Melee,100,6,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,6,4,25
+"Solar Flare Chainsaw (Desktop, Console and Mobile versions)",Melee,80,4,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,4,4,15
+"Solar Flare Drill (Desktop, Console and Mobile versions)",Melee,50,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,0.5,4,15
+"Solar Flare Hamaxe (Desktop, Console and Mobile versions)",Melee,60,7,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,7,4,28
+"Solar Flare Hammer (Desktop, Console and Mobile versions)",Melee,110,7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,110,7,4,30
+"Solar Flare Pickaxe (Desktop, Console and Mobile versions)",Melee,80,5.5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,5.5,4,12
+"Soulscourge (Desktop, Console and Mobile versions)",Summon,17,1.35,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,1.35,NA,30
+Space Gun,Magic,20,0.75,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,0.75,4,17
+Spear,Melee,8,6.5,4%,31,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,8,6.5,4,31
+Spectre Hamaxe,Melee,60,7,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,7,4,28
+Spectre Pickaxe,Melee,32,5.25,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,32,5.25,4,24
+Spectre Staff,Magic,65,6,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,65,6,4,24
+"Spider Staff (Desktop, Console, Old-gen console and Mobile versions)",Summon,26,3,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,NA,36
+Spiky Ball,Ranged,16,1,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,16,1,4,15
+"Spinal Tap (Desktop, Console and Mobile versions)",Summon,29,2,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,29,2,NA,30
+"Spirit Flame (Desktop, Console and Mobile versions)",Magic,85,5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,85,5,4,22
+Staff of Earth,Magic,125,7.5,24%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,125,7.5,24,24
+Staff of Regrowth,Melee,7,3,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,3,4,25
+Staff of the Frost Hydra,Summon,100,7.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,7.5,NA,30
+Stake Launcher,Ranged,75,6.5,14%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,75,6.5,14,12
+"Star Anise (Desktop, Console, Old-gen console and Mobile versions)",Ranged,14,0,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,0,4,15
+Star Cannon,Ranged,55,3,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,55,3,4,12
+"Star Wrath (Desktop, Console and Mobile versions)",Melee,170,6.5,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,170,6.5,4,16
+"Starcrash (Desktop, Console and Mobile versions)",Summon,18,1.5,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,18,1.5,NA,30
+"Stardust Axe (Desktop, Console and Mobile versions)",Melee,100,6,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,6,4,25
+"Stardust Cell Staff (Desktop, Console and Mobile versions)",Summon,60,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,2,NA,36
+"Stardust Chainsaw (Desktop, Console and Mobile versions)",Melee,80,4,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,4,4,15
+"Stardust Dragon Staff (Desktop, Console and Mobile versions)",Summon,40,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,2,NA,36
+"Stardust Drill (Desktop, Console and Mobile versions)",Melee,50,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,0.5,4,15
+"Stardust Hamaxe (Desktop, Console and Mobile versions)",Melee,60,7,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,7,4,28
+"Stardust Hammer (Desktop, Console and Mobile versions)",Melee,110,7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,110,7,4,30
+"Stardust Pickaxe (Desktop, Console and Mobile versions)",Melee,80,5.5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,5.5,4,12
+Starfury,Melee,25,5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,5,4,20
+"Starlight (Desktop, Console and Mobile versions)",Melee,80,4,14%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,4,14,18
+"Stellar Tune (Desktop, Console and Mobile versions)",Magic,85,1.5,24%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,85,1.5,24,12
+Sticky Bomb,Unclassified,100,8,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,8,NA,25
+"Sticky Dirt Bomb (Desktop, Console and Mobile versions)",Unclassified,100,12,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,12,NA,25
+"Sticky Dynamite (Desktop, Console and Mobile versions)",Unclassified,250,10,-,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,250,10,NA,40
+"Sticky Grenade (Desktop, Console, Old-gen console and Mobile versions)",Ranged,60,8,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,8,4,45
+"Sticky Power Bomb (Desktop, Console and Mobile versions)",Unclassified,200,9,-,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,200,9,NA,40
+"Storm Spear (Desktop, Console and Mobile versions)",Melee,14,6,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,6,4,28
+"Stylish Scissors (Desktop, Console and Mobile versions)",Melee,14,5,4%,13,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,5,4,13
+Stynger,Ranged,45,5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,5,4,22
+Sunfury,Melee,64,6.75,11%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,64,6.75,11,45
+"Super Star Shooter (Desktop, Console and Mobile versions)",Ranged,60,5,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,5,4,18
+Swordfish,Melee,19,4.25,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,4.25,4,20
+Tactical Shotgun,Ranged,36,7,4%,34,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,36,7,4,34
+Tempest Staff,Summon,50,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,2,NA,36
+Tendon Bow,Ranged,19,1,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,1,4,30
+"Tentacle Spike (Desktop, Console and Mobile versions)",Melee,20,5.5,4%,21,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,5.5,4,21
+Terra Blade,Melee,85,6.5,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,85,6.5,4,18
+"Terragrim (Desktop, Console and Mobile versions)",Melee,17,3,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,3,4,25
+"Terraprisma (Desktop, Console and Mobile versions)",Summon,90,4,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,90,4,NA,36
+"Terrarian (Desktop, Console and Mobile versions)",Melee,190,6.5,14%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,190,6.5,14,25
+The Axe,Melee,72,7.25,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,72,7.25,4,23
+"The Bee's Knees (Desktop, Console and Mobile versions)",Ranged,23,3,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,23,3,4,23
+The Breaker,Melee,24,6,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,6,4,45
+"The Eye of Cthulhu (Desktop, Console and Mobile versions)",Melee,115,3.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,115,3.5,4,25
+The Horseman's Blade,Melee,150,7.5,4%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,150,7.5,4,26
+The Meatball,Melee,34,5.5,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,34,5.5,4,45
+The Rotted Fork,Melee,17,5,4%,31,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,17,5,4,31
+The Undertaker,Ranged,19,2,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,2,4,20
+Thorn Chakram,Melee,25,8,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,25,8,4,15
+Throwing Knife,Ranged,12,2,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,12,2,4,15
+"Thunder Zapper (Desktop, Console and Mobile versions)",Magic,24,3,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,24,3,4,17
+Tin Axe,Melee,4,4.5,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,4.5,4,28
+Tin Bow,Ranged,7,0,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,0,4,28
+Tin Broadsword,Melee,10,5.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,5.5,4,20
+Tin Hammer,Melee,6,5.5,4%,31,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,5.5,4,31
+Tin Pickaxe,Melee,5,2,4%,21,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,5,2,4,21
+Tin Shortsword,Melee,7,4,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,4,4,12
+Titanium Chainsaw,Melee,34,4.6,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,34,4.6,4,15
+Titanium Drill,Melee,27,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,27,0.5,4,15
+Titanium Pickaxe,Melee,27,5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,27,5,4,25
+Titanium Repeater,Ranged,43,2.5,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,43,2.5,4,17
+Titanium Sword,Melee,61,6,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,61,6,4,20
+Titanium Trident,Melee,48,6.2,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,48,6.2,4,23
+Titanium Waraxe,Melee,44,7.5,4%,35,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,44,7.5,4,35
+"Tome of Infinite Wisdom (Desktop, Console and Mobile versions)",Magic,36,9,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,36,9,4,25
+Topaz Staff,Magic,16,3.5,4%,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,16,3.5,4,36
+"Toxic Flask (Desktop, Console and Mobile versions)",Magic,52,4,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,52,4,4,45
+"Toxikarp (Desktop, Console and Mobile versions)",Ranged,43,3,4%,10,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,43,3,4,10
+"Tragic Umbrella (Desktop, Console and Mobile versions)",Melee,15,5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,5,4,22
+Trident,Melee,14,6,4%,31,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,6,4,31
+"Trimarang (Desktop, Console and Mobile versions)",Melee,21,4.5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,21,4.5,4,20
+"True Copper Shortsword (Desktop, Console and Mobile versions)",Melee,190,6.5,14%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,190,6.5,14,30
+True Excalibur,Melee,72,4.5,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,72,4.5,4,18
+True Night's Edge,Melee,70,4.75,4%,32,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,4.75,4,32
+"Trusty Cattiva (Desktop, Console and Mobile versions)",Summon,22,2,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,22,2,NA,15
+"Trusty Foxparks (Desktop, Console and Mobile versions)",Summon,40,3,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,3,NA,15
+Tsunami,Ranged,53,2,4%,24,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,53,2,4,24
+Tungsten Axe,Melee,7,4.5,4%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,4.5,4,26
+Tungsten Bow,Ranged,10,0,4%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,0,4,26
+Tungsten Broadsword,Melee,14,6,4%,19,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,6,4,19
+Tungsten Hammer,Melee,9,5.5,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,5.5,4,28
+Tungsten Pickaxe,Melee,6,2,4%,21,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,6,2,4,21
+Tungsten Shortsword,Melee,10,4,4%,11,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,4,4,11
+Umbrella,Melee,10,5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,5,4,22
+Unholy Trident,Magic,150,6.66,4%,27,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,150,6.659999999999999,4,27
+Unholy Water,Unclassified,20,3,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,3,NA,15
+Uzi,Ranged,30,3.5,4%,9,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,30,3.5,4,9
+"Valkyrie Yoyo (Desktop, Console and Mobile versions)",Melee,70,4.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,70,4.5,4,25
+"Valor (Desktop, Console and Mobile versions)",Melee,28,3.85,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,28,3.8499999999999996,4,25
+"Vampire Frog Staff (Desktop, Console and Mobile versions)",Summon,11,5,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,11,5,NA,36
+Vampire Knives,Melee,29,2.75,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,29,2.75,4,16
+"Vasculash (Desktop, Console and Mobile versions)",Summon,19,1.25,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,1.25,NA,30
+"Venom Staff (Desktop, Console, Old-gen console and Mobile versions)",Magic,44,7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,44,7,4,30
+Venus Magnum,Ranged,50,5.5,4%,9,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,5.5,4,9
+Vilethorn,Magic,10,1,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,1,4,28
+Volcano,Melee,40,6.5,4%,40,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,40,6.5,4,40
+"Vortex Axe (Desktop, Console and Mobile versions)",Melee,100,6,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,6,4,25
+"Vortex Beater (Desktop, Console and Mobile versions)",Ranged,50,2,4%,20 (Very fast)(see notes for more info),Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,2,4,20
+"Vortex Chainsaw (Desktop, Console and Mobile versions)",Melee,80,4,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,4,4,15
+"Vortex Drill (Desktop, Console and Mobile versions)",Melee,50,0.5,4%,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,0.5,4,15
+"Vortex Hamaxe (Desktop, Console and Mobile versions)",Melee,60,7,4%,28,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,7,4,28
+"Vortex Hammer (Desktop, Console and Mobile versions)",Melee,110,7,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,110,7,4,30
+"Vortex Pickaxe (Desktop, Console and Mobile versions)",Melee,80,5.5,4%,12,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,80,5.5,4,12
+"Vulgar Display of Flower (Desktop, Console and Mobile versions)",Summon,50,2,-,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,2,NA,30
+"Waffle's Iron (Desktop, Console and Mobile versions)",Melee,50,4.75,4%,23,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,4.75,4,23
+"Wand of Frosting (Desktop, Console and Mobile versions)",Magic,15,0,14%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,0,14,26
+"Wand of Sparking (Desktop, Console and Mobile versions)",Magic,14,0,14%,26,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,14,0,14,26
+War Axe of the Night,Melee,20,6,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,20,6,4,30
+Wasp Gun,Magic,31,0.25,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,31,0.25,4,18
+Water Bolt,Magic,19,5,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,19,5,4,17
+"Weather Pain (Desktop, Console and Mobile versions)",Magic,13,1,4%,45,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,13,1,4,45
+"Wet Bomb (Desktop, Console and Mobile versions)",Unclassified,100,12,-,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,100,12,NA,25
+"White Paper Airplane (Desktop, Console and Mobile versions)",Ranged,4,2,4%,17,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,2,4,17
+White Phaseblade,Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+White Phasesaber,Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+Wooden Boomerang,Melee,10,5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,10,5,4,20
+Wooden Bow,Ranged,4,0,4%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,4,0,4,30
+Wooden Hammer,Melee,2,5.5,4%,37,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,2,5.5,4,37
+Wooden Sword,Melee,7,5,4%,20,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,7,5,4,20
+"Wooden Yoyo (Desktop, Console and Mobile versions)",Melee,9,2.5,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,9,2.5,4,25
+"Xeno Staff (Desktop, Console and Mobile versions)",Summon,36,2,-,36,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,36,2,NA,36
+"Xenopopper (Desktop, Console and Mobile versions)",Ranged,45,3,4%,21,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,45,3,4,21
+"Yelets (Desktop, Console and Mobile versions)",Melee,60,3.1,4%,25,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,60,3.1,4,25
+Yellow Phaseblade,Melee,26,3,4%,18,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,26,3,4,18
+Yellow Phasesaber,Melee,50,3,4%,16,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,50,3,4,16
+Yellow Rocket,Unclassified,-1,0,-,15,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,-1,0,NA,15
+"Zenith (Desktop, Console and Mobile versions)",Melee,190,6.5,14%,30,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,190,6.5,14,30
+Zombie Arm,Melee,15,5.5,4%,22,Terraria,https://terraria.wiki.gg/wiki/Weapons_List,15,5.5,4,22
+Absolute Zero,Melee,75,4 (Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,75,4,4,20
+Abyss Blade,Melee,114,7.5 (Very Strong),4%,65 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,114,7.5,4,65
+Acidwood Sword,Melee,12,3 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,12,3,4,18
+Aegis Blade,Melee,152,4.25 (Average),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,152,4.25,4,16
+Air Spinner,Melee,29,4 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,29,4,4,22
+Amidias' Trident,Melee,12,4.5 (Average),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,12,4.5,4,17
+Anarchy Blade,Melee,120,7.5 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,120,7.5,4,18
+Aorta,Melee,31,4.25 (Average),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,31,4.25,4,22
+Ark of the Ancients,Melee,100,6.5 (Strong),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,100,6.5,4,25
+Ark of the Cosmos,Melee,1700,9.5 (Extremely Strong),19%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,1700,9.5,19,15
+Ark of the Elements,Melee,444,8.5 (Very Strong),14%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,444,8.5,14,20
+Astral Pike,Melee,90,8.5 (Very Strong),29%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,90,8.5,29,13
+Astral Scythe,Melee,80,6 (Average),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,80,6,4,19
+Ataraxia,Melee,325,2.5 (Very Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,325,2.5,4,10
+Avalanche,Melee,75,7.25 (Very Strong),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,75,7.25,4,35
+Axe of Purity,Melee,55,5 (Average),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,55,5,4,14
+Baleful Harvester,Melee,150,8 (Very Strong),4%,90 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,150,8,4,90
+Ball O' Fugu,Melee,50,8 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,50,8,4,20
+Banshee Hook,Melee,250,8.5 (Very Strong),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,250,8.5,4,21
+Basher,Melee,65,7 (Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,65,7,4,30
+Biome Blade,Melee,115,7.50 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,115,7.5,4,20
+Biome Blade (Pure Clarity),Melee,90,7.50 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,90,7.5,4,20
+Biome Blade (Biting Embrace),Melee,105,7.50 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,105,7.5,4,20
+Biome Blade (Arid Grandeur),Melee,105,7.50 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,105,7.5,4,20
+Biome Blade (Decay's Retort),Melee,155,7.50 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,155,7.5,4,20
+Biome Blade (Grovetender's Touch),Melee,115,7.50 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,115,7.5,4,20
+Biome Blade (Heaven's Might),Melee,100,7.50 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,100,7.5,4,20
+Bladecrest Oathsword,Melee,35,3 (Very Weak),4%,53 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,35,3,4,53
+Blighted Cleaver,Melee,52,8 (Very Strong),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,52,8,4,28
+Bonebreaker,Melee,55,7 (Strong),4%,23 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,55,7,4,23
+Botanic Piercer,Melee,80,8.5 (Very Strong),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,80,8.5,4,17
+Brimlance,Melee,50,7.5 (Very Strong),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,50,7.5,4,19
+Brimlash,Melee,60,6 (Average),4%,29 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,60,6,4,29
+Brimstone Sword,Melee,70,7.5 (Very Strong),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,70,7.5,4,28
+Briny Baron,Melee,182,4 (Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,182,4,4,20
+Broken Biome Blade,Melee,38,5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,38,5,4,30
+Broken Biome Blade (Pure Clarity),Melee,34,5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,34,5,4,30
+Broken Biome Blade (Biting Embrace),Melee,38,5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,38,5,4,30
+Broken Biome Blade (Arid Grandeur),Melee,38,5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,38,5,4,30
+Broken Biome Blade (Decay's Retort),Melee,45,5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,45,5,4,30
+Burning Revelation,Melee,300,7.5 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,300,7.5,4,20
+Burnt Sienna,Melee,32,5.5 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,32,5.5,4,24
+Carnage,Melee,130,5.25 (Average),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,130,5.25,4,21
+Caustic Edge,Melee,100,6 (Average),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,100,6,4,27
+Celestial Claymore,Melee,50,5.25 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,50,5.25,4,24
+Clam Crusher,Melee,150,10 (Extremely Strong),4%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,150,10,4,50
+Comet Quasher,Melee,45,2.75 (Very Weak),4%,38 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,45,2.75,4,38
+Cosmic Discharge,Melee,450,0.5 (Extremely Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,450,0.5,4,15
+Cosmic Shiv,Melee,155,9 (Very Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,155,9,4,30
+Crescent Moon,Melee,1000,4 (Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,1000,4,4,18
+Darklight Greatsword,Melee,60,6 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,60,6,4,30
+Death's Ascension,Melee,500,9 (Very Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,500,9,4,24
+Defiled Greatsword,Melee,111,9 (Very Strong),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,111,9,4,28
+Depth Crusher,Melee,48,7.25 (Very Strong),4%,65 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,48,7.25,4,65
+Devil's Devastation,Melee,333,7.5 (Very Strong),45%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,333,7.5,45,45
+Devil's Sunrise,Melee,420,4 (Weak),14%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,420,4,14,25
+Draconic Destruction,Melee,350,7.25 (Very Strong),4%,34 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,350,7.25,4,34
+Dragon Pow,Melee,333,9 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,333,9,4,20
+Dragon Rage,Melee,888,7.5 (Very Strong),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,888,7.5,4,25
+Driftwood Sword,Melee,11,6 (Average),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,11,6,4,19
+Earth,Melee,4200,15 (Insane),4%,42 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,4200,15,4,42
+Earthen Pike,Melee,85,7 (Strong),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,85,7,4,25
+Empyrean Knives,Melee,110,3 (Very Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,110,3,4,15
+Entropic Claymore,Melee,90,5.25 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,90,5.25,4,30
+Essence Flayer,Melee,220,8 (Very Strong),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,220,8,4,19
+Exalted Oathblade,Melee,90,5.5 (Average),35%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,90,5.5,35,45
+Exoblade,Melee,915,9 (Very Strong),4%,49 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,915,9,4,49
+Fallen Paladin's Hammer,Melee,315,20 (Insane),4%,57 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,315,20,4,57
+Fault Line,Melee,75,4 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,75,4,4,22
+Feller of Evergreens,Melee,18,5 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,18,5,4,24
+Feralthorn Claymore,Melee,109,7.25 (Very Strong),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,109,7.25,4,13
+Flarefrost Blade,Melee,125,6.25 (Strong),4%,29 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,125,6.25,4,29
+Floodtide,Melee,85,6 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,85,6,4,24
+Forbidden Oathblade,Melee,58,4.5 (Average),25%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,58,4.5,25,50
+Forsaken Saber,Melee,80,6 (Average),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,80,6,4,15
+Fractured Ark,Melee,41,6.25 (Strong),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,41,6.25,4,22
+Gael's Greatsword,Melee,850,9 (Very Strong),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,850,9,4,13
+Galactus Blade,Melee,185,17 (Insane),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,185,17,4,27
+Galaxia,Melee,250,9 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,250,9,4,18
+Galaxia (Phoenix's Pride),Melee,300,9 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,300,9,4,18
+Galaxia (Aries' Wrath),Melee,375,9 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,375,9,4,18
+Galaxia (Polaris' Gaze),Melee,400,9 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,400,9,4,18
+Galaxia (Andromeda's Stride),Melee,1120,9 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,1120,9,4,18
+Galaxy Smasher,Melee,1100,14 (Insane),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,1100,14,4,40
+Galileo Gladius,Melee,600,10 (Extremely Strong),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,600,10,4,8
+Galvanizing Glaive,Melee,130,9 (Very Strong),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,130,9,4,21
+Gelitic Blade,Melee,38,5.25 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,38,5.25,4,30
+Gilded Proboscis,Melee,2090,15 (Insane),100%,65 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,2090,15,100,65
+Goldplume Spear,Melee,26,5.75 (Average),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,26,5.75,4,25
+Grand Dad,Melee,5577,77 (Insane),4%,77 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,5577,77,4,77
+Grand Guardian,Melee,360,9 (Very Strong),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,360,9,4,35
+Grax,Melee,472,8 (Very Strong),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,472,8,4,15
+Greatsword of Judgement,Melee,225,7 (Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,225,7,4,20
+Greentide,Melee,81,7 (Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,81,7,4,30
+Hellfire Flamberge,Melee,90,7.75 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,90,7.75,4,20
+Hellion Flower Spear,Melee,100,7.5 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,100,7.5,4,20
+Hellkite,Melee,570,13 (Insane),4%,71 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,570,13,4,71
+Holy Collider,Melee,2200,7.75 (Very Strong),4%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,2200,7.75,4,45
+Illustrious Knives,Melee,525,3 (Very Weak),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,525,3,4,8
+Inferna Cutter,Melee,55,7 (Strong),14%,11 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,55,7,14,11
+Insidious Impaler,Melee,250,12 (Insane),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,250,12,4,13
+Lacerator,Melee,222,7 (Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,222,7,4,20
+Lifehunt Scythe,Melee,156,7.5 (Very Strong),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,156,7.5,4,17
+Lightspeed,Melee,200,2 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,200,2,4,20
+Lion Heart,Melee,960,5.5 (Average),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,960,5.5,4,14
+Lucrecia,Melee,124,8.25 (Very Strong),4%,34 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,124,8.25,4,34
+Majestic Guard,Melee,270,12 (Insane),4%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,270,12,4,50
+Mantis Claws,Melee,75,0.25 (Extremely Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,75,0.25,4,25
+Maw of Infinity,Melee,2080,8 (Very Strong),4%,33 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,2080,8,4,33
+Mirror Blade,Melee,600,7 (Strong),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,600,7,4,40
+Monolith Sword,Melee,30,7 (Strong),4%,7 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,30,7,4,7
+Monstrous Knives,Melee,8,3 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,8,3,4,20
+Mourningstar,Melee,112,2.5 (Very Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,112,2.5,4,10
+Murasama,Melee,2200,6.5 (Strong),65%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,2200,6.5,65,25
+Mycelial Claws,Melee,28,3.75 (Weak),4%,7 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,28,3.75,4,7
+Nadir,Melee,365,8 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,365,8,4,18
+Nebulash,Melee,85,2 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,85,2,4,18
+Neptune's Bounty,Melee,420,9 (Very Strong),4%,65 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,420,9,4,65
+Oblivion,Melee,35,4 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,35,4,4,22
+Old Lord Claymore,Melee,100,10 (Extremely Strong),15%,90 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,100,10,15,90
+Omniblade,Melee,100,6 (Average),45%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,100,6,45,9
+Orderbringer,Melee,700,8 (Very Strong),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,700,8,4,16
+Ozzathoth,Melee,145,6 (Average),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,145,6,4,20
+P-GSS: Auger,Melee,55,12 (Insane),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,55,12,4,12
+Pandemic,Melee,125,2.5 (Very Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,125,2.5,4,22
+Perfect Dark,Melee,24,4.25 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,24,4.25,4,24
+Phaseslayer,Melee,1350,7 (Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,1350,7,4,24
+Phosphorescent Gauntlet,Melee,3200,9 (Very Strong),14%,39 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,3200,9,14,39
+Photon Ripper,Melee,1400,12 (Insane),22%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,1400,12,22,25
+Prismatic Breaker,Melee,425,7 (Strong),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,425,7,4,13
+Pulse Dragon,Melee,300,8 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,300,8,4,20
+Pwnagehammer,Melee,140,10 (Extremely Strong),4%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,140,10,4,50
+Quagmire,Melee,54,3.5 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,54,3.5,4,22
+Red Sun,Melee,400,4 (Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,400,4,4,40
+Rem's Revenge,Melee,376,10 (Extremely Strong),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,376,10,4,15
+Respiteblock,Melee,70,9 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,70,9,4,20
+Riptide,Melee,12,1 (Extremely Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,12,1,4,25
+Roxcalibur,Melee,180,13 (Insane),12%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,180,13,12,40
+Sahara Slicers,Melee,20,6 (Average),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,20,6,4,12
+Sausage Maker,Melee,27,6.25 (Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,27,6.25,4,20
+Scourge of the Cosmos,Melee,380,5 (Average),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,380,5,4,16
+Seashine Sword,Melee,22,4 (Weak),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,22,4,4,19
+Seeking Scorcher,Melee,1170,8.50 (Very Strong),4%,55 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,1170,8.5,4,55
+Shimmerspark,Melee,41,3.5 (Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,41,3.5,4,25
+Skytide Dragoon,Melee,365,12 (Insane),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,365,12,4,35
+Smoking Comet,Melee,17,1.5 (Extremely Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,17,1.5,4,25
+Solstice Claymore,Melee,235,6.5 (Strong),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,235,6.5,4,15
+Soul Harvester,Melee,77,7.5 (Very Strong),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,77,7.5,4,22
+Spine of Thanatos,Melee,128,8 (Very Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,128,8,4,24
+Starnight Lance,Melee,80,6 (Average),4%,23 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,80,6,4,23
+Stellar Contempt,Melee,525,28 (Insane),4%,48 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,525,28,4,48
+Stellar Striker,Melee,100,7.75 (Very Strong),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,100,7.75,4,28
+Storm Ruler,Melee,80,6.25 (Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,80,6.25,4,24
+Storm Saber,Melee,38,6 (Average),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,38,6,4,22
+Stream Gouge,Melee,470,9.75 (Extremely Strong),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,470,9.75,4,19
+Stygian Shield,Melee,180,6 (Average),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,180,6,4,40
+Submarine Shocker,Melee,90,7 (Strong),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,90,7,4,16
+Sulphurous Grabber,Melee,40,3.5 (Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,40,3.5,4,25
+Swordsplosion,Melee,48,7 (Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,48,7,4,30
+Tainted Blade,Melee,48,5 (Average),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,48,5,4,26
+Teardrop Cleaver,Melee,33,5.5 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,33,5.5,4,24
+Tenebreus Tides,Melee,120,4.5 (Average),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,120,4.5,4,14
+Terratomere,Melee,120,7 (Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,120,7,4,20
+Terror Blade,Melee,560,8.5 (Very Strong),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,560,8.5,4,17
+The Burning Sky,Melee,147,2.5 (Very Weak),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,147,2.5,4,8
+The Dark Master,Melee,50,7 (Strong),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,50,7,4,26
+The God's Gambit,Melee,28,3.5 (Weak),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,28,3.5,4,21
+The Last Mourning,Melee,600,8.5 (Very Strong),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,600,8.5,4,19
+The Microwave,Melee,111,3 (Very Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,111,3,4,22
+The Mutilator,Melee,1005,8 (Very Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,1005,8,4,30
+The Obliterator,Melee,370,7.5 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,370,7.5,4,20
+The Oracle,Melee,201,4 (Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,201,4,4,20
+Titan Arm,Melee,200,80 (Insane),100%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,200,80,100,20
+Triactis' True Paladinian Mage-Hammer of Might,Melee,2000,14 (Insane),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,2000,14,4,25
+True Biome Blade,Melee,150,8 (Very Strong),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,150,8,4,17
+True Biome Blade (Earthen Tides),Melee,600,8 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,600,8,4,18
+True Biome Blade (Sanguine Fury),Melee,200,8 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,200,8,4,18
+True Biome Blade (Lamentations of the Chained),Melee,200,8 (Very Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,200,8,4,18
+True Biome Blade (Swordsmith's Pride),Melee,150,8 (Very Strong),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,150,8,4,17
+Tumbleweed,Melee,156,8 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,156,8,4,20
+Typhon's Greed,Melee,60,5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,60,5,4,30
+Ultimus Cleaver,Melee,130,8 (Very Strong),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,130,8,4,19
+Urchin Mace,Melee,30,4 (Weak),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,30,4,4,19
+Vanishing Point,Melee,240,9.5 (Extremely Strong),4%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,240,9.5,4,45
+Vein Burster,Melee,38,4.25 (Average),4%,41 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,38,4.25,4,41
+Violence,Melee,485,9 (Very Strong),4%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,485,9,4,60
+Virulence,Melee,100,5.5 (Average),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,100,5.5,4,15
+Void Edge,Melee,210,7 (Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,210,7,4,24
+Vulcanite Lance,Melee,90,6.75 (Strong),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,90,6.75,4,22
+Wind Blade,Melee,30,5 (Average),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,30,5,4,22
+Wulfrum Screwdriver,Melee,12,3.75 (Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,12,3.75,4,24
+Yateveo Bloom,Melee,30,5 (Average),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,30,5,4,22
+Yin-Yo,Melee,44,3.5 (Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Melee_weapons,44,3.5,4,25
+A-PLS: Pulse Rifle,Ranged,530,0.25 (Extremely Weak),4%,55 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,530,0.25,4,55
+Ace's High,Ranged,325,6 (Average),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,325,6,4,12
+Acidwood Bow,Ranged,9,0 (No Knockback),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,9,0,4,27
+Adamantite Particle Accelerator,Ranged,65,3 (Very Weak),4%,44 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,65,3,4,44
+Alluvion,Ranged,96,4 (Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,96,4,4,30
+Angelic Shotgun,Ranged,92,3 (Very Weak),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,92,3,4,26
+Animosity,Ranged,39,2 (Very Weak),8,31 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,39,2,8,31
+Anti-materiel Rifle,Ranged,1818,9.50 (Extremely Strong),24%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,1818,9.5,24,60
+Aquashard Shotgun,Ranged,12,5.5 (Average),10%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,12,5.5,10,30
+Arbalest,Ranged,28,4 (Weak),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,28,4,4,21
+Arc Nova Diffuser,Ranged,125,4 (Weak),4%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,125,4,4,9
+Archerfish,Ranged,16,2 (Very Weak),4%,11 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,16,2,4,11
+Arietes 41,Ranged,77,2.5 (Very Weak),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,77,2.5,4,13
+Arterial Assault,Ranged,256,4.25 (Average),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,256,4.25,4,40
+Astral Blaster,Ranged,150,2.75 (Very Weak),29%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,150,2.75,29,15
+Astreal Defeat,Ranged,160,5.5 (Average),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,160,5.5,4,20
+Auralis,Ranged,695,10 (Extremely Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,695,10,4,30
+Aurora Blazer,Ranged,69,2 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,69,2,4,30
+B-GSS: Nidhogg,Ranged,69,7 (Strong),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,69,7,4,8
+Barinade,Ranged,5,2.2 (Very Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,5,2.2,4,24
+Barinautical,Ranged,32,2 (Very Weak),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,32,2,4,12
+Barracuda Gun,Ranged,52,1 (Extremely Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,52,1,4,20
+Bladedge Railbow,Ranged,30,3.5 (Weak),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,30,3.5,4,28
+Blight Spewer,Ranged,52,1.5 (Extremely Weak),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,52,1.5,4,19
+Blissful Bombardier,Ranged,550,7.5 (Very Strong),4%,39 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,550,7.5,4,39
+Blood Boiler,Ranged,120,4 (Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,120,4,4,25
+Blossom Flux,Ranged,18,0.15 (Extremely Weak),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,18,0.15000000000000002,4,16
+Brimstone Fury,Ranged,21,3.75 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,21,3.75,4,22
+Bullet-Filled Shotgun,Ranged,1,0.25 (Extremely Weak),4%,75 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,1,0.25,4,75
+Buzzkill,Ranged,56,1 (Extremely Weak),25%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,56,1,25,30
+Chicken Cannon,Ranged,277,1.5 (Extremely Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,277,1.5,4,30
+Chromatic Eruption,Ranged,94,3.5 (Weak),4%,6 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,94,3.5,4,6
+Clamor Rifle,Ranged,36,2.5 (Very Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,36,2.5,4,15
+Cleansing Blaze,Ranged,275,4 (Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,275,4,4,24
+Clockwork Bow,Ranged,770,4.25 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,770,4.25,4,30
+Condemnation,Ranged,2130,5 (Average),4%,23 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,2130,5,4,23
+Conference Call,Ranged,53,4.5 (Average),4%,42 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,53,4.5,4,42
+Contagion,Ranged,880,5 (Average),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,880,5,4,20
+Continental Greatbow,Ranged,45,4 (Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,45,4,4,24
+Corinth Prime,Ranged,140,8 (Very Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,140,8,4,30
+Corroded Caustibow,Ranged,75,6 (Average),24%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,75,6,24,45
+Crackshot Colt,Ranged,18,2.25 (Very Weak),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,18,2.25,4,35
+Daemon's Flame,Ranged,162,4 (Weak),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,162,4,4,12
+Darkecho Greatbow,Ranged,45,4 (Weak),4%,33 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,45,4,4,33
+Dead Sun's Wind,Ranged,115,3.5 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,115,3.5,4,22
+Deepcore GK2,Ranged,45,7 (Strong),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,45,7,4,14
+Dragon's Breath,Ranged,328,4.5 (Average),4%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,328,4.5,4,9
+Dragoon Drizzlefish,Ranged,18,1.1 (Extremely Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,18,1.1,4,20
+Drataliornus,Ranged,129,1 (Extremely Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,129,1,4,24
+Driftwood Bow,Ranged,8,0 (No Knockback),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,8,0,4,28
+Eternal Blizzard,Ranged,67,3 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,67,3,4,18
+Eviscerator,Ranged,60,7.5 (Very Strong),29%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,60,7.5,29,60
+Fetid Emesis,Ranged,214,5 (Average),4%,6 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,214,5,4,6
+Firestorm Cannon,Ranged,15,1.5 (Extremely Weak),4%,11 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,15,1.5,4,11
+Flak Kraken,Ranged,78,0.25 (Extremely Weak),4%,63 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,78,0.25,4,63
+Flak Toxicannon,Ranged,73,0.25 (Extremely Weak),4%,44 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,73,0.25,4,44
+Flarewing Bow,Ranged,31,1.5 (Extremely Weak),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,31,1.5,4,35
+Flurrystorm Cannon,Ranged,10,1.2 (Extremely Weak),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,10,1.2,4,16
+Freedom Star,Ranged,120,3 (Very Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,120,3,4,10
+Frostbite Blaster,Ranged,50,5 (Average),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,50,5,4,21
+Fungicide,Ranged,19,2.5 (Very Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,19,2.5,4,22
+Galeforce,Ranged,13,3 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,13,3,4,20
+Golden Eagle,Ranged,88,3 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,88,3,4,18
+Goobow,Ranged,33,3 (Very Weak),4%,31 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,33,3,4,31
+Gunk Shot,Ranged,22,3.5 (Weak),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,22,3.5,4,35
+Halibut Cannon,Ranged,100,1 (Extremely Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,100,1,4,20
+Halley's Inferno,Ranged,444,5.5 (Average),24%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,444,5.5,24,25
+Handheld Tank,Ranged,740,16 (Insane),19%,74 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,740,16,19,74
+Havoc's Breath,Ranged,62,1.5 (Extremely Weak),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,62,1.5,4,35
+Heavenly Gale,Ranged,256,4 (Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,256,4,4,40
+Hellborn,Ranged,300,2.5 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,300,2.5,4,30
+Helstorm,Ranged,33,2 (Very Weak),4%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,33,2,4,9
+Hoarfrost Bow,Ranged,36,4 (Weak),4%,29 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,36,4,4,29
+Hydra,Ranged,44,10 (Extremely Strong),4%,66 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,44,10,4,66
+Infinity,Ranged,75,1 (Extremely Weak),4%,4 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,75,1,4,4
+Karasawa,Ranged,2400,12 (Insane),4%,52 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,2400,12,4,52
+Kingsbane,Ranged,249,2.5 (Very Weak),4%,3 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,249,2.5,4,3
+Leviatitan,Ranged,89,5 (Average),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,89,5,4,18
+Lunarian Bow,Ranged,27,2 (Very Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,27,2,4,22
+M1 Garand,Ranged,75,2 (Very Weak),14%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,75,2,14,40
+Magna Cannon,Ranged,25,2.5 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,25,2.5,4,30
+Magnomaly Cannon,Ranged,279,9.5 (Extremely Strong),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,279,9.5,4,15
+Malevolence,Ranged,56,3 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,56,3,4,18
+Marksman Bow,Ranged,39,6 (Average),14%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,39,6,14,18
+Megalodon,Ranged,37,2.5 (Very Weak),4%,6 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,37,2.5,4,6
+Meowthrower,Ranged,29,0.4 (Extremely Weak),4%,32 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,29,0.4,4,32
+Midas Prime,Ranged,81,2.25 (Very Weak),4%,32 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,81,2.25,4,32
+Mineral Mortar,Ranged,85,20 (Insane),4%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,85,20,4,60
+Monolith Bow,Ranged,19,0 (No Knockback),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,19,0,4,20
+Monsoon,Ranged,156,2.5 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,156,2.5,4,20
+Needler,Ranged,52,5.5 (Average),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,52,5.5,4,18
+Nettlevine Greatbow,Ranged,73,3 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,73,3,4,18
+Nitro Express Rifle,Ranged,210,7.5 (Very Strong),14%,70 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,210,7.5,14,70
+Norfleet,Ranged,5678,15 (Insane),20%,70 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,5678,15,20,70
+Nullification Pistol,Ranged,170,7 (Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,170,7,4,20
+Ontological Despoiler,Ranged,445,6 (Average),29%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,445,6,29,8
+Onyx Chain Blaster,Ranged,58,4.5 (Average),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,58,4.5,4,15
+Onyxia,Ranged,90,4.5 (Average),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,90,4.5,4,10
+Opal Striker,Ranged,33,4 (Weak),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,33,4,4,17
+Overloaded Blaster,Ranged,19,1.5 (Extremely Weak),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,19,1.5,4,28
+P-TSL: Short Circuit,Ranged,11,7 (Strong),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,11,7,4,8
+P90,Ranged,6,1.50 (Extremely Weak),4%,4 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,6,1.5,4,4
+Pearl God,Ranged,160,3 (Very Weak),4%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,160,3,4,9
+Pestilent Defiler,Ranged,105,9.5 (Extremely Strong),4%,37 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,105,9.5,4,37
+Photoviscerator,Ranged,495,2 (Very Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,495,2,4,10
+Plague Tainted SMG,Ranged,78,2 (Very Weak),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,78,2,4,12
+Planetary Annihilation,Ranged,66,5.5 (Average),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,66,5.5,4,22
+Polaris Parrotfish,Ranged,35,0.5 (Extremely Weak),4%,6 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,35,0.5,4,6
+Prideful Hunter's Planar Ripper,Ranged,79,1 (Extremely Weak),4%,5 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,79,1,4,5
+Prismatic Breaker,Ranged,425,7 (Strong),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,425,7,4,13
+Pristine Fury,Ranged,60,5 (Average),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,60,5,4,15
+Pumpler,Ranged,26,1.25 (Extremely Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,26,1.25,4,30
+R-PMA: Holofibre Immolator,Ranged,100,11 (Extremely Strong),4%,33 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,100,11,4,33
+Realm Ravager,Ranged,54,4 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,54,4,4,22
+Reed Blowgun,Ranged,21,4.5 (Average),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,21,4.5,4,25
+Riftburst,Ranged,91,3 (Very Weak),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,91,3,4,12
+Rubico Prime,Ranged,450,10 (Extremely Strong),42%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,450,10,42,50
+SDFMG,Ranged,118,2.75 (Very Weak),19%,3 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,118,2.75,19,3
+Sandblaster,Ranged,70,5 (Average),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,70,5,4,18
+Scorched Earth,Ranged,550,6.5 (Strong),4%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,550,6.5,4,60
+Scorpio,Ranged,33,6.5 (Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,33,6.5,4,30
+Sea's Searing,Ranged,40,5 (Average),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,40,5,4,10
+Seadragon,Ranged,154,2.5 (Very Weak),4%,3 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,154,2.5,4,3
+Septic Skewer,Ranged,933,3.5 (Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,933,3.5,4,30
+Shadethrower,Ranged,21,1.5 (Extremely Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,21,1.5,4,40
+Shellshooter,Ranged,40,6 (Average),19%,70 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,40,6,19,70
+Shredder,Ranged,48,1.5 (Extremely Weak),4%,32 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,48,1.5,4,32
+Shroomer,Ranged,150,9.75 (Extremely Strong),39%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,150,9.75,39,35
+Slag Magnum,Ranged,36,4 (Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,36,4,4,15
+Slagfire Douser,Ranged,5,2 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,5,2,4,30
+Soma Prime,Ranged,705,2 (Very Weak),30%,5 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,705,2,30,5
+Spark Spreader,Ranged,16,1 (Extremely Weak),4%,48 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,16,1,4,48
+Spectralstorm Cannon,Ranged,85,1.5 (Extremely Weak),4%,11 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,85,1.5,4,11
+Speed Blaster,Ranged,40,2.25 (Very Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,40,2.25,4,10
+Spyker,Ranged,210,6 (Average),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,210,6,4,13
+Star Sputter,Ranged,138,15 (Insane),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,138,15,4,24
+Starfleet,Ranged,3170,15 (Insane),4%,70 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,3170,15,4,70
+Starmada,Ranged,4900,15 (Insane),4%,70 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,4900,15,4,70
+Starmageddon,Ranged,138,4 (Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,138,4,4,30
+Stellar Cannon,Ranged,180,7 (Strong),20%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,180,7,20,40
+Storm Surge,Ranged,18,5 (Average),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,18,5,4,18
+Sulphuric Acid Cannon,Ranged,550,6 (Average),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,550,6,4,35
+Superradiant Slaughterer,Ranged,100,1.75 (Very Weak),25%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,100,1.75,25,30
+Surge Driver,Ranged,156,8 (Very Strong),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,156,8,4,28
+Svantechnical,Ranged,232,3.5 (Weak),4%,3 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,232,3.5,4,3
+Tau Cannon,Ranged,620,4 (Weak),4%,180 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,620,4,4,180
+Telluric Glare,Ranged,83,7.5 (Very Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,83,7.5,4,24
+The Anomaly's Nanogun,Ranged,1600,4.5 (Average),4%,140 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,1600,4.5,4,140
+The Ballista,Ranged,88,8 (Very Strong),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,88,8,4,28
+The Hive,Ranged,92,3.5 (Weak),20%,34 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,92,3.5,20,34
+The Jailor,Ranged,235,8 (Very Strong),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,235,8,4,28
+The Maelstrom,Ranged,550,3 (Very Weak),4%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,550,3,4,45
+The Omnigun,Ranged,57,5 (Average),4%,6 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,57,5,4,6
+The Pack,Ranged,1000,7.50 (Very Strong),12%,53 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,1000,7.5,12,53
+The Sevens Striker,Ranged,777,9 (Very Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,777,9,4,30
+The Storm,Ranged,40,3.5 (Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,40,3.5,4,20
+Thermocline Blaster,Ranged,45,2.25 (Very Weak),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,45,2.25,4,16
+Thread of Eradication,Ranged,1500,5 (Average),4%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,1500,5,4,45
+Titanium Railgun,Ranged,370,5 (Average),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,370,5,4,26
+Toxibow,Ranged,15,3 (Very Weak),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,15,3,4,28
+Tyranny's End,Ranged,2150,9.5 (Extremely Strong),39%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,2150,9.5,39,60
+Ultima,Ranged,115,2 (Very Weak),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,115,2,4,8
+Universal Genesis,Ranged,180,6.5 (Strong),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,180,6.5,4,26
+Vernal Bolter,Ranged,35,2.75 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,35,2.75,4,20
+Voidragon,Ranged,1400,5 (Average),4%,3 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,1400,5,4,3
+Vortexpopper,Ranged,30,3.25 (Weak),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,30,3.25,4,21
+W-LSR: Phalanx Surge,Ranged,175,4 (Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,175,4,4,30
+Wildfire Bloom,Ranged,62,3.25 (Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,62,3.25,4,15
+Wulfrum Blunderbuss,Ranged,11,2.25 (Very Weak),4%,55 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Ranged_weapons,11,2.25,4,55
+Abyss Shocker,Magic,30,0.25 (Extremely Weak),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,30,0.25,4,19
+Abyssal Tome,Magic,22,6 (Average),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,22,6,4,25
+Acid Gun,Magic,18,1.5 (Extremely Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,18,1.5,4,20
+Aether's Whisper,Magic,600,5.5 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,600,5.5,4,24
+Aetherflux Cannon,Magic,315,4 (Weak),4%,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,315,4,4,36
+Alpha Draconis,Magic,150,5.2 (Average),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,150,5.2,4,12
+Alula Australis,Magic,65,3 (Very Weak),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,65,3,4,17
+Anahita's Arpeggio,Magic,60,6.5 (Strong),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,60,6.5,4,22
+Apathanull,Magic,63,5.5 (Average),16%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,63,5.5,16,8
+Apoctosis Array,Magic,40,6 (Average),4%,5 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,40,6,4,5
+Apotheosis,Magic,222,6.9 (Strong),4%,167 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,222,6.9,4,167
+Aquamarine Staff,Magic,17,2.5 (Very Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,17,2.5,4,22
+Arch Amaryllis,Magic,58,7.5 (Very Strong),4%,23 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,58,7.5,4,23
+Arctic Bear Paw,Magic,80,10 (Extremely Strong),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,80,10,4,28
+Art Attack,Magic,120,2 (Very Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,120,2,4,24
+Astral Staff,Magic,245,5 (Average),19%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,245,5,19,18
+Astralachnea Staff,Magic,55,6 (Average),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,55,6,4,21
+Atlantis,Magic,81,5 (Average),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,81,5,4,25
+Augur of the Void,Magic,131,5.5 (Average),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,131,5.5,4,10
+B-LSR: Countermeasure Mitt,Magic,45,4 (Weak),4%,11 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,45,4,4,11
+Belching Saxophone,Magic,32,2 (Very Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,32,2,4,24
+Biofusillade,Magic,118,3 (Very Weak),4%,3 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,118,3,4,3
+Black Anurian,Magic,24,2.75 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,24,2.75,4,18
+Blood Bath,Magic,24,5.75 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,24,5.75,4,30
+Brimrose Staff,Magic,45,7 (Strong),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,45,7,4,16
+Burning Sea,Magic,56,6.5 (Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,56,6.5,4,20
+Chronomancer's Scythe,Magic,159,4 (Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,159,4,4,25
+Clothier's Wrath,Magic,36,3 (Very Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,36,3,4,22
+Coral Spout,Magic,9,2 (Very Weak),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,9,2,4,26
+Cosmic Rainbow,Magic,120,0 (No Knockback),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,120,0,4,35
+Cryophobia,Magic,96,1.5 (Extremely Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,96,1.5,4,40
+Dark Spark,Magic,60,0.25 (Extremely Weak),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,60,0.25,4,12
+Death Valley Duster,Magic,130,8 (Very Strong),4%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,130,8,4,50
+Downpour,Magic,50,3 (Very Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,50,3,4,15
+Effervescence,Magic,60,3.75 (Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,60,3.75,4,15
+Eidolic Wail,Magic,943,1 (Extremely Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,943,1,4,30
+Eidolon Staff,Magic,180,3 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,180,3,4,18
+Eldritch Tome,Magic,32,3.5 (Weak),9%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,32,3.5,9,21
+Eternity,Magic,840,0.25 (Extremely Weak),4%,120 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,840,0.25,4,120
+Event Horizon,Magic,138,3.5 (Weak),4%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,138,3.5,4,45
+Everglade Spray,Magic,65,2 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,65,2,4,18
+Face Melter,Magic,165,5 (Average),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,165,5,4,10
+Fate's Reveal,Magic,120,5.5 (Average),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,120,5.5,4,16
+Flare Bolt,Magic,40,5 (Average),4%,80 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,40,5,4,80
+Forbidden Sun,Magic,80,7 (Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,80,7,4,30
+Frigidflash Bolt,Magic,95,5.5 (Average),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,95,5.5,4,20
+Frost Bolt,Magic,14,3.5 (Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,14,3.5,4,20
+Genesis,Magic,65,1.5 (Extremely Weak),4%,4 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,65,1.5,4,4
+Ghastly Visage,Magic,120,5 (Average),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,120,5,4,27
+Gleaming Magnolia,Magic,53,5.5 (Average),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,53,5.5,4,27
+Glorious End,Magic,60,10 (Extremely Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,60,10,4,30
+Gruesome Eminence,Magic,666,5 (Average),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,666,5,4,27
+Hadal Urn,Magic,37,2.75 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,37,2.75,4,20
+Helium Flash,Magic,3200,9.5 (Extremely Strong),4%,120 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,3200,9.5,4,120
+Hellwing Staff,Magic,21,5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,21,5,4,30
+Hematemesis,Magic,75,3.75 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,75,3.75,4,22
+Heresy,Magic,960,0.25 (Extremely Weak),4%,120 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,960,0.25,4,120
+Hyperdeath Rift Scepter,Magic,4100,4 (Weak),4%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,4100,4,4,50
+Hyphae Rod,Magic,22,2 (Very Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,22,2,4,24
+Ice Barrage,Magic,2250,6 (Average),4%,300 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,2250,6,4,300
+Icicle Staff,Magic,10,2 (Very Weak),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,10,2,4,14
+Icicle Trident,Magic,69,7 (Strong),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,69,7,4,25
+Infernal Rift,Magic,50,7 (Strong),29%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,50,7,29,30
+Ion Blaster,Magic,24,6 (Average),4%,7 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,24,6,4,7
+Keelhaul,Magic,55,2 (Very Weak),4%,29 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,55,2,4,29
+Lashes of Chaos,Magic,130,7.5 (Very Strong),4%,46 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,130,7.5,4,46
+Light God's Brilliance,Magic,111,3 (Very Weak),4%,4 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,111,3,4,4
+Mad Alchemist's Cocktail Glove,Magic,240,2 (Very Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,240,2,4,15
+Magnetic Meltdown,Magic,200,4 (Weak),4%,37 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,200,4,4,37
+Mana Rose,Magic,20,3.25 (Weak),4%,38 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,20,3.25,4,38
+Miasma,Magic,40,3 (Very Weak),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,40,3,4,27
+Mistlestorm,Magic,59,3.5 (Weak),4%,6 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,59,3.5,4,6
+Nano Purge,Magic,135,3 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,135,3,4,20
+Nebulous Cataclysm,Magic,530,6 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,530,6,4,30
+Night's Ray,Magic,20,3.25 (Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,20,3.25,4,20
+Nuclear Fury,Magic,91,5 (Average),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,91,5,4,25
+Nucleosynthesis,Magic,70,7.5 (Very Strong),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,70,7.5,4,16
+Omicron,Magic,80,1.5 (Extremely Weak),4%,4 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,80,1.5,4,4
+P-PLS: Pulse Pistol,Magic,42,3 (Very Weak),4%,64 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,42,3,4,64
+Parasitic Scepter,Magic,12,3 (Very Weak),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,12,3,4,35
+Phantasmal Fury,Magic,190,20 (Insane),4%,3 (Insanely Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,190,20,4,3
+Phoenix Flame Barrage,Magic,140,3.5 (Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,140,3.5,4,30
+Photosynthesis,Magic,74,4 (Weak),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,74,4,4,21
+Plague Staff,Magic,70,8 (Very Strong),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,70,8,4,21
+Plasma Caster,Magic,705,7 (Strong),4%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,705,7,4,45
+Plasma Rifle,Magic,120,4 (Weak),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,120,4,4,8
+Plasma Rod,Magic,8,2.5 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,8,2.5,4,20
+Poseidon,Magic,52,6 (Average),4%,49 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,52,6,4,49
+Primordial Ancient,Magic,3825,14 (Insane),4%,72 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,3825,14,4,72
+Primordial Earth,Magic,205,10 (Extremely Strong),4%,68 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,205,10,4,68
+Purge Guzzler,Magic,152,4.5 (Average),4%,38 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,152,4.5,4,38
+R-GSS: Vulcan,Magic,42,11 (Extremely Strong),4%,11 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,42,11,4,11
+Rainbow Party Cannon,Magic,175,3.5 (Weak),8%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,175,3.5,8,24
+Rancor,Magic,333,5 (Average),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,333,5,4,25
+Recitation of the Beast,Magic,60,8.50 (Very Strong),24%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,60,8.5,24,22
+Relic of Ruin,Magic,21,4.25 (Average),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,21,4.25,4,35
+Rouge Slash,Magic,119,7.5 (Very Strong),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,119,7.5,4,19
+SHPC,Magic,117,3 (Very Weak),4%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,117,3,4,60
+Sandstream Scepter,Magic,16,1 (Extremely Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,16,1,4,20
+Sanguine Flare,Magic,1050,8 (Very Strong),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,1050,8,4,25
+Seething Discharge,Magic,40,6.75 (Strong),4%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,40,6.75,4,60
+Serpentine,Magic,10,3 (Very Weak),4%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,10,3,4,35
+Shadecrystal Barrage,Magic,24,5 (Average),4%,7 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,24,5,4,7
+Shaderain Staff,Magic,19,0.25 (Extremely Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,19,0.25,4,30
+Shadowbolt Staff,Magic,285,5 (Average),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,285,5,4,8
+Shifting Sands,Magic,76,5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,76,5,4,30
+Sky Glaze,Magic,10,3.5 (Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,10,3.5,4,25
+Slithering Eels,Magic,50,3 (Very Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,50,3,4,40
+Snowstorm Staff,Magic,39,5 (Average),4%,70 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,39,5,4,70
+Soul Piercer,Magic,310,8 (Very Strong),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,310,8,4,25
+Sparkling Empress,Magic,10,0 (No Knockback),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,10,0,4,20
+Staff of Blushie,Magic,1,1 (Extremely Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,1,1,4,30
+Star Shower,Magic,60,3.25 (Weak),29%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,60,3.25,29,14
+Subsuming Vortex,Magic,460,5 (Average),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,460,5,4,20
+Sylvestaff,Magic,140,5 (Average),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,140,5,4,20
+Tactician's Trump Card,Magic,248,7 (Strong),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,248,7,4,12
+Tears of Heaven,Magic,43,5.5 (Average),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,43,5.5,4,20
+Tesla Cannon,Magic,1200,10 (Extremely Strong),4%,90 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,1200,10,4,90
+Teslastaff,Magic,166,0.25 (Extremely Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,166,0.25,4,10
+The Cauldron,Magic,56,8 (Very Strong),4%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,56,8,4,60
+The Dance of Light,Magic,515,4 (Weak),24%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,515,4,24,8
+The Prince,Magic,180,4.25 (Average),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,180,4.25,4,21
+The Swarmer,Magic,36,0.25 (Extremely Weak),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,36,0.25,4,12
+The Wand,Magic,1,0.5 (Extremely Weak),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,1,0.5,4,19
+Thorn Blossom,Magic,120,2 (Very Weak),4%,23 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,120,2,4,23
+Tradewinds,Magic,23,5 (Average),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,23,5,4,15
+Ultra Liquidator,Magic,120,5 (Average),34%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,120,5,34,15
+Undine's Retribution,Magic,46,3.5 (Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,46,3.5,4,18
+Unstable Caster's Gauntlet,Magic,320,3 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,320,3,4,20
+Valkyrie Ray,Magic,90,8.5 (Very Strong),4%,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,90,8.5,4,36
+Veering Wind,Magic,16,10 (Extremely Strong),4%,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,16,10,4,36
+Vehemence,Magic,6666,5.75 (Average),4%,43 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,6666,5.75,4,43
+Venusian Trident,Magic,1150,9 (Very Strong),4%,65 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,1150,9,4,65
+Vesuvius,Magic,55,3 (Very Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,55,3,4,15
+Viscera,Magic,229,5 (Average),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,229,5,4,22
+Vitriolic Viper,Magic,2626,6.5 (Strong),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,2626,6.5,4,16
+Vivid Clarity,Magic,162,7.5 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,162,7.5,4,20
+Void Vortex,Magic,210,0.25 (Extremely Weak),4%,49 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,210,0.25,4,49
+Voltaic Climax,Magic,235,5 (Average),4%,29 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,235,5,4,29
+Volterion,Magic,890,2 (Very Weak),4%,80 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,890,2,4,80
+Waywasher,Magic,16,2.5 (Very Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,16,2.5,4,15
+Wingman,Magic,82,1.5 (Extremely Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,82,1.5,4,15
+Winter's Fury,Magic,70,5 (Average),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,70,5,4,12
+Wulfrum Prosthesis,Magic,18,3 (Very Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,18,3,4,24
+Wyvern's Call,Magic,65,4.75 (Average),4%,23 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,65,4.75,4,23
+Yharim's Crystal,Magic,65,0.25 (Extremely Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Magic_weapons,65,0.25,4,10
+Abandoned Slime Staff,Summon,56,3 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,56,3,NA,36
+Amphibian's Guitar,Summon,54,0 (No Knockback),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,54,0,NA,36
+Ancient Ice Chunk,Summon,25,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,25,2,NA,36
+Aqua's Scepter,Summon,65,6 (Average),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,65,6,NA,30
+Ares' Exoskeleton,Summon,550,1 (Extremely Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,550,1,NA,24
+Atlas Munitions Beacon,Summon,200,4.75 (Average),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,200,4.75,NA,30
+Belladonna Spirit Staff,Summon,22,1 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,22,1,NA,36
+Black Hawk Remote,Summon,25,1 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,25,1,NA,36
+Blighted Slime Staff,Summon,18,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,18,2,NA,36
+Borealis Bomber,Summon,34,5 (Average),NA,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,34,5,NA,20
+Brittle Star Staff,Summon,10,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,10,2,NA,36
+Cadaverous Carrion,Summon,384,4 (Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,384,4,NA,30
+Calamari's Lament,Summon,120,0.25 (Extremely Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,120,0.25,NA,24
+Caustic Croaker Staff,Summon,8,0.25 (Extremely Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,8,0.25,NA,30
+Caustic Staff,Summon,18,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,18,2,NA,36
+Cinder Blossom Staff,Summon,16,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,16,2,NA,36
+Cinders of Lament,Summon,1666,0.25 (Extremely Weak),NA,80 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,1666,0.25,NA,80
+Cnidarian,Summon,8,3 (Very Weak),NA,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,8,3,NA,25
+Corvid Harbinger Staff,Summon,99,2 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,99,2,NA,24
+Cosmic Immaterializer,Summon,560,0.25 (Extremely Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,560,0.25,NA,24
+Cosmic Viper Engine,Summon,255,6 (Average),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,255,6,NA,24
+Cosmilamp,Summon,95,4 (Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,95,4,NA,24
+Cryogenic Staff,Summon,30,4 (Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,30,4,NA,30
+Daedalus Golem Staff,Summon,70,3 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,70,3,NA,36
+Dank Staff,Summon,10,2.25 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,10,2.25,NA,36
+Dazzling Stabber Staff,Summon,69,2 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,69,2,NA,24
+Deathstare Rod,Summon,20,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,20,2,NA,36
+Deepsea Staff,Summon,32,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,32,2,NA,36
+Dormant Brimseeker,Summon,42,3 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,42,3,NA,36
+Dragonblood Disgorger,Summon,222,4 (Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,222,4,NA,24
+Dreadmine Staff,Summon,40,4.5 (Average),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,40,4.5,NA,30
+Enchanted Conch,Summon,20,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,20,2,NA,36
+Enchanted Knife Staff,Summon,10,2 (Very Weak),NA,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,10,2,NA,15
+Endo Hydra Staff,Summon,190,3 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,190,3,NA,24
+Endogenesis,Summon,1300,4 (Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,1300,4,NA,24
+Entropy's Vigil,Summon,38,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,38,2,NA,36
+Ethereal Subjugator,Summon,160,1 (Extremely Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,160,1,NA,24
+Eye of Night,Summon,24,1 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,24,1,NA,36
+Flamsteed Ring,Summon,1999,1 (Extremely Weak),NA,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,1999,1,NA,9
+Flesh of Infidelity,Summon,14,1 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,14,1,NA,36
+Flowers of Mortality,Summon,70,5 (Average),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,70,5,NA,24
+Forgotten Apex Wand,Summon,46,4 (Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,46,4,NA,36
+Frost Blossom Staff,Summon,15,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,15,2,NA,36
+Fuel Cell Bundle,Summon,22,7 (Strong),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,22,7,NA,36
+Gamma Heart,Summon,93,3 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,93,3,NA,24
+Gastric Belcher Staff,Summon,60,1 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,60,1,NA,36
+Glacial Embrace,Summon,48,4.5 (Average),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,48,4.5,NA,36
+Guidelight of Oblivion,Summon,75,5 (Average),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,75,5,NA,30
+Harvest Staff,Summon,27,5 (Average),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,27,5,NA,30
+Haunted Scroll,Summon,25,3 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,25,3,NA,36
+Herring Staff,Summon,15,1.25 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,15,1.25,NA,36
+Hive Pod,Summon,75,4 (Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,75,4,NA,30
+Igneous Exaltation,Summon,30,4.5 (Average),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,30,4.5,NA,36
+Infected Remote,Summon,50,5 (Average),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,50,5,NA,36
+"King of Constellations, Tenryū",Summon,175,2 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,175,2,NA,24
+Legion of Celestia,Summon,50,5 (Average),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,50,5,NA,24
+Lilies of Finality,Summon,512,5 (Average),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,512,5,NA,24
+Metastasis,Summon,400,2 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,400,2,NA,24
+Midnight Sun Beacon,Summon,150,1 (Extremely Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,150,1,NA,24
+Mirror of Kalandra,Summon,317,4 (Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,317,4,NA,24
+Mounted Scanner,Summon,24,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,24,2,NA,36
+Mutated Truffle,Summon,250,5 (Average),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,250,5,NA,24
+Orthocera Shell,Summon,42,2 (Very Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,42,2,NA,30
+P-PMA: Aqueous Hunter Drone,Summon,18,2.25 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,18,2.25,NA,36
+Perdition,Summon,375,4 (Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,375,4,NA,30
+Plantation Staff,Summon,58,1 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,58,1,NA,36
+Pole Warper,Summon,207,8 (Very Strong),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,207,8,NA,24
+Polyp Launcher,Summon,12,0.25 (Extremely Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,12,0.25,NA,30
+Puff Shroom,Summon,14,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,14,2,NA,36
+Pulse Turret Remote,Summon,150,0.25 (Extremely Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,150,0.25,NA,30
+Resurrection Butterfly,Summon,66,1 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,66,1,NA,36
+Rusty Beacon Prototype,Summon,7,0.5 (Extremely Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,7,0.5,NA,30
+Sanctified Spark,Summon,100,5 (Average),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,100,5,NA,30
+Sand Sharknado Staff,Summon,60,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,60,2,NA,36
+Saros Possession,Summon,66,1.15 (Extremely Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,66,1.1500000000000001,NA,24
+Scab Ripper,Summon,10,0.5 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,10,0.5,NA,36
+Shellfish Staff,Summon,70,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,70,2,NA,36
+Sirius,Summon,90,10 (Extremely Strong),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,90,10,NA,24
+Slime Puppet Staff,Summon,10,3.6 (Weak),NA,29 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,10,3.6,NA,29
+Snake Eyes,Summon,160,3 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,160,3,NA,24
+Spikecrag Staff,Summon,25,2 (Very Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,25,2,NA,30
+Squirrel Squire Staff,Summon,8,0.5 (Extremely Weak),NA,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,8,0.5,NA,30
+Staff of Necrosteocytes,Summon,25,3.5 (Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,25,3.5,NA,36
+Starspawn Helix Staff,Summon,103,1.25 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,103,1.25,NA,36
+Stellar Torus Staff,Summon,132,4 (Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,132,4,NA,24
+Stormjaw Staff,Summon,11,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,11,2,NA,36
+Sun Spirit Staff,Summon,22,1.15 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,22,1.1500000000000001,NA,36
+Tactical Plague Engine,Summon,110,0.5 (Extremely Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,110,0.5,NA,24
+Temporal Umbrella,Summon,193,1 (Extremely Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,193,1,NA,24
+Tundra Flame Blossoms Staff,Summon,56,3 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,56,3,NA,36
+Universe Splitter,Summon,9000,7 (Strong),NA,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,9000,7,NA,9
+Vengeful Sun Staff,Summon,38,1.25 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,38,1.25,NA,36
+Vigilance,Summon,115,4 (Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,115,4,NA,24
+Vile Feeder,Summon,10,0.5 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,10,0.5,NA,36
+Viral Sprout,Summon,30,2 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,30,2,NA,36
+Virid Vanguard,Summon,55,5 (Average),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,55,5,NA,24
+Void Concentration Staff,Summon,200,4 (Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,200,4,NA,24
+Void Eater Marionette,Summon,100,2 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,100,2,NA,24
+Warloks' Moon Fist,Summon,450,2 (Very Weak),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,450,2,NA,24
+Wither Blossoms Staff,Summon,50,3 (Very Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,50,3,NA,36
+Wulfrum Controller,Summon,19,0.5 (Extremely Weak),NA,36 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,19,0.5,NA,36
+Yharon's Kindle Staff,Summon,300,7 (Strong),NA,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Summon_weapons,300,7,NA,24
+Adamantite Throwing Axe,Rogue,61,3.25 (Weak),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,61,3.25,4,14
+Antlion Skewer,Rogue,19,2 (Very Weak),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,19,2,4,28
+Apoctolith,Rogue,185,10 (Extremely Strong),24%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,185,10,24,26
+Ashen Stalactite,Rogue,37,1 (Extremely Weak),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,37,1,4,17
+Auroradical Throw,Rogue,48,6 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,48,6,4,30
+Ballistic Poison Bomb,Rogue,57,6.5 (Strong),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,57,6.5,4,26
+Blast Barrel,Rogue,32,8 (Very Strong),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,32,8,4,22
+Blazing Star,Rogue,75,3 (Very Weak),8%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,75,3,8,15
+Bloodsoaked Crasher,Rogue,245,3 (Very Weak),4%,23 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,245,3,4,23
+Bouncing Eyeball,Rogue,16,3.50 (Weak),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,16,3.5,4,22
+Brimblade,Rogue,28,6.5 (Strong),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,28,6.5,4,18
+Burning Strife,Rogue,73,0.25 (Extremely Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,73,0.25,4,25
+Celestial Reaper,Rogue,140,6 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,140,6,4,30
+Celestus,Rogue,280,6 (Average),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,280,6,4,22
+Cinquedea,Rogue,35,5 (Average),12%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,35,5,12,20
+Cobalt Kunai,Rogue,49,2.5 (Very Weak),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,49,2.5,4,12
+Consecrated Water,Rogue,48,4.50 (Average),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,48,4.5,4,28
+Contaminated Bile,Rogue,16,4.5 (Average),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,16,4.5,4,40
+Corpus Avertor,Rogue,98,3 (Very Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,98,3,4,15
+Cosmic Kunai,Rogue,110,5 (Average),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,110,5,4,12
+Cranium Smasher,Rogue,140,4 (Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,140,4,4,20
+Crushsaw Crasher,Rogue,57,7 (Strong),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,57,7,4,17
+Crystal Piercer,Rogue,92,6 (Average),4%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,92,6,4,22
+Crystalline,Rogue,16,3 (Very Weak),8%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,16,3,8,18
+Cursed Dagger,Rogue,45,4.5 (Average),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,45,4.5,4,18
+Deep Sea Dumbbell,Rogue,466,8 (Very Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,466,8,4,24
+Deep Wounder,Rogue,132,3 (Very Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,132,3,4,25
+Defective Sphere,Rogue,85,5 (Average),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,85,5,4,13
+Desecrated Water,Rogue,55,4.5 (Average),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,55,4.5,4,28
+Dimension-Tearing Disk,Rogue,725,7 (Strong),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,725,7,4,27
+Doomsday Device,Rogue,240,12 (Insane),4%,55 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,240,12,4,55
+Duke's Decapitator,Rogue,90,2 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,90,2,4,30
+Duststorm in a Bottle,Rogue,110,4 (Weak),4%,28 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,110,4,4,28
+Dynamic Pursuer,Rogue,2000,3 (Very Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,2000,3,4,40
+Eclipse's Fall,Rogue,700,3.5 (Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,700,3.5,4,24
+Elephant Killer,Rogue,135,3 (Very Weak),4%,38 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,135,3,4,38
+Enchanted Axe,Rogue,19,1 (Extremely Weak),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,19,1,4,19
+Epidemic Shredder,Rogue,80,4.5 (Average),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,80,4.5,4,16
+Equanimity,Rogue,84,1 (Extremely Weak),4%,46 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,84,1,4,46
+Executioner's Blade,Rogue,195,6.75 (Strong),4%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,195,6.75,4,9
+Exorcism,Rogue,192,12 (Insane),4%,96 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,192,12,4,96
+Fantasy Talisman,Rogue,82,6 (Average),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,82,6,4,16
+Feather Knife,Rogue,22,2 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,22,2,4,30
+Fishbone Boomerang,Rogue,27,5.5 (Average),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,27,5.5,4,30
+Frostcrush Valari,Rogue,89,12 (Insane),20%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,89,12,20,21
+Frosty Flare,Rogue,37,2 (Very Weak),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,37,2,4,13
+Gacruxian Mollusk,Rogue,36,5 (Average),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,36,5,4,25
+Gel Dart,Rogue,21,2.5 (Very Weak),4%,11 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,21,2.5,4,11
+Ghoulish Gouger,Rogue,204,7.5 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,204,7.5,4,20
+Gilded Dagger,Rogue,14,1 (Extremely Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,14,1,4,18
+Glaive,Rogue,19,3 (Very Weak),8%,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,19,3,8,22
+Gleaming Dagger,Rogue,14,1 (Extremely Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,14,1,4,18
+Gods' Paranoia,Rogue,142,5 (Average),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,142,5,4,20
+Grave Grimreaver,Rogue,84,4 (Weak),4%,48 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,84,4,4,48
+Hardened Honeycomb,Rogue,19,3 (Very Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,19,3,4,18
+Heavenfallen Stardisk,Rogue,160,8 (Very Strong),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,160,8,4,40
+Hypothermia,Rogue,148,3 (Very Weak),20%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,148,3,20,12
+Ice Star,Rogue,35,2.5 (Very Weak),7%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,35,2.5,7,17
+Icebreaker,Rogue,60,6.75 (Strong),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,60,6.75,4,14
+Ichor Spear,Rogue,120,7 (Strong),4%,39 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,120,7,4,39
+Infernal Kris,Rogue,21,1 (Extremely Weak),4%,18 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,21,1,4,18
+Infested Clawmerang,Rogue,18,1.5 (Extremely Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,18,1.5,4,20
+Iron Francisca,Rogue,9,1 (Extremely Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,9,1,4,20
+Jaws of Oblivion,Rogue,159,1 (Extremely Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,159,1,4,15
+Kelvin Catalyst,Rogue,50,4 (Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,50,4,4,30
+Kylie,Rogue,12,9 (Very Strong),20%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,12,9,20,25
+Lead Tomahawk,Rogue,9,1 (Extremely Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,9,1,4,20
+Lemon 'nade,Rogue,33,3 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,33,3,4,30
+Leonid Progenitor,Rogue,64,3 (Very Weak),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,64,3,4,14
+Leviathan Teeth,Rogue,43,1 (Extremely Weak),4%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,43,1,4,9
+Lionfish,Rogue,33,2.5 (Very Weak),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,33,2.5,4,26
+Lunar Kunai,Rogue,102,2 (Very Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,102,2,4,10
+Malachite,Rogue,52,1.25 (Extremely Weak),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,52,1.25,4,14
+Mangrove Chakram,Rogue,84,7.5 (Very Strong),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,84,7.5,4,14
+Metal Monstrosity,Rogue,30,7 (Strong),4%,39 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,30,7,4,39
+Meteor Fist,Rogue,31,5.75 (Average),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,31,5.75,4,25
+Molten Amputator,Rogue,200,2 (Very Weak),4%,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,200,2,4,25
+Mycoroot,Rogue,12,1.5 (Extremely Weak),4%,6 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,12,1.5,4,6
+Mythril Knife,Rogue,66,1.75 (Very Weak),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,66,1.75,4,12
+Nanoblack Reaper,Rogue,555,9 (Very Strong),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,555,9,4,19
+Nasty Cholla,Rogue,10,3 (Very Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,10,3,4,20
+Orichalcum Spiked Gemstone,Rogue,40,2 (Very Weak),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,40,2,4,13
+P-LSR: Aerial Tracker,Rogue,16,3 (Very Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,16,3,4,40
+Palladium Javelin,Rogue,81,5.5 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,81,5.5,4,24
+Penumbra,Rogue,725,8 (Very Strong),20%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,725,8,20,35
+Phantasmal Ruin,Rogue,140,8 (Very Strong),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,140,8,4,30
+Plaguenade,Rogue,63,1.5 (Extremely Weak),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,63,1.5,4,14
+Plasma Grenade,Rogue,860,3 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,860,3,4,30
+Prismalline,Rogue,36,5 (Average),8%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,36,5,8,20
+Profaned Partisan,Rogue,300,8 (Very Strong),19%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,300,8,19,21
+Pumpkaboom,Rogue,17,2 (Very Weak),4%,70 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,17,2,4,70
+R-PLS: Pulse Grenade,Rogue,123,8 (Very Strong),4%,75 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,123,8,4,75
+Radiant Star,Rogue,55,5 (Average),12%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,55,5,12,12
+Reality Rupture,Rogue,225,9 (Very Strong),4%,37 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,225,9,4,37
+Rebounding Rainbow,Rogue,92,9 (Very Strong),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,92,9,4,16
+Refraction Rotor,Rogue,240,8.5 (Very Strong),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,240,8.5,4,40
+Regulus Riot,Rogue,100,4.5 (Average),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,100,4.5,4,24
+Rot Ball,Rogue,26,2.5 (Very Weak),12%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,26,2.5,12,13
+Sacrifice,Rogue,300,4 (Weak),4%,8 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,300,4,4,8
+Samsara Slicer,Rogue,80,4 (Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,80,4,4,30
+Sand Dollar,Rogue,26,3.5 (Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,26,3.5,4,15
+Scarlet Devil,Rogue,8800,8 (Very Strong),24%,60 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,8800,8,24,60
+Scourge of the Desert,Rogue,12,3.5 (Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,12,3.5,4,24
+Scourge of the Seas,Rogue,50,3.5 (Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,50,3.5,4,24
+Seafoam Bomb,Rogue,12,8 (Very Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,12,8,4,24
+Sealed Singularity,Rogue,220,3 (Very Weak),4%,30 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,220,3,4,30
+Seraphim,Rogue,280,6 (Average),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,280,6,4,13
+Shard of Antumbra,Rogue,111,8 (Very Strong),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,111,8,4,17
+Shattered Dawn,Rogue,80,6 (Average),14%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,80,6,14,12
+Shinobi Blade,Rogue,24,1 (Extremely Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,24,1,4,10
+Skyfin Bombers,Rogue,46,6.5 (Strong),4%,34 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,46,6.5,4,34
+Sludge Splotch,Rogue,30,1 (Extremely Weak),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,30,1,4,17
+Snap Clam,Rogue,14,3 (Very Weak),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,14,3,4,24
+Spadefish,Rogue,30,2 (Very Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,30,2,4,40
+Spear of Destiny,Rogue,50,2 (Very Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,50,2,4,40
+Spear of Paleolith,Rogue,70,6 (Average),4%,26 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,70,6,4,26
+Spent Fuel Container,Rogue,80,4.5 (Average),4%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,80,4.5,4,50
+Spore Knife,Rogue,18,2 (Very Weak),4%,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,18,2,4,15
+Star of Destruction,Rogue,400,10 (Extremely Strong),4%,90 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,400,10,4,90
+Stellar Knife,Rogue,69,4 (Weak),8%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,69,4,8,9
+Stormfront Razor,Rogue,38,7 (Strong),12%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,38,7,12,20
+Subduction Slicer,Rogue,95,8.5 (Very Strong),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,95,8.5,4,20
+Supernova,Rogue,5200,18 (Insane),4%,70 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,5200,18,4,70
+System Bane,Rogue,45,4 (Weak),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,45,4,4,14
+Tarragon Throwing Dart,Rogue,380,4.5 (Average),4%,11 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,380,4.5,4,11
+Terror Talons,Rogue,47,3 (Very Weak),4%,6 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,47,3,4,6
+The Atom Splitter,Rogue,296,7 (Strong),4%,24 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,296,7,4,24
+The Final Dawn,Rogue,2500,4 (Weak),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,2500,4,4,14
+The Old Reaper,Rogue,1420,4 (Weak),4%,50 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,1420,4,4,50
+The Syringe,Rogue,60,5 (Average),4%,14 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,60,5,4,14
+Throwing Brick,Rogue,17,5 (Average),24%,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,17,5,24,35
+Time Bolt,Rogue,303,4 (Weak),4%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,303,4,4,20
+Titanium Shuriken,Rogue,38,3 (Very Weak),14%,9 (Very Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,38,3,14,9
+Tooth Ball,Rogue,26,2.5 (Very Weak),12%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,26,2.5,12,13
+Totality Breakers,Rogue,64,5 (Average),4%,27 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,64,5,4,27
+Toxicant Twister,Rogue,272,4 (Weak),4%,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,272,4,4,40
+Turbulance,Rogue,20,5 (Average),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,20,5,4,17
+Twisting Thunder,Rogue,466,10 (Extremely Strong),16%,20 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,466,10,16,20
+Urchin Stinger,Rogue,13,1.5 (Extremely Weak),4%,13 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,13,1.5,4,13
+Utensil Poker,Rogue,333,8 (Very Strong),4%,45 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,333,8,4,45
+Valediction,Rogue,243,7 (Strong),4%,17 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,243,7,4,17
+Vega,Rogue,500,1 (Extremely Weak),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,500,1,4,19
+Walking Cane,Rogue,40,6 (Average),4%,16 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,40,6,4,16
+Wave Pounder,Rogue,75,0.25 (Extremely Weak),4%,55 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,75,0.25,4,55
+Wave Skipper,Rogue,80,4 (Weak),4%,21 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,80,4,4,21
+Web Ball,Rogue,12,3 (Very Weak),4%,19 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,12,3,4,19
+Whitewater,Rogue,80,6.5 (Strong),4%,34 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,80,6.5,4,34
+Wrathwing,Rogue,592,5 (Average),4%,12 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,592,5,4,12
+Wulfrum Knife,Rogue,9,1 (Extremely Weak),4%,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Rogue_weapons,9,1,4,10
+Aestheticus,Classless,11,3 (Very Weak),NA,25 (Slow),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,11,3,NA,25
+Claret Cannon,Classless,500,5.5 (Average),NA,10 (Fast),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,500,5.5,NA,10
+Evil Smasher,Classless,200,6 (Average),NA,120 (Snail),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,200,6,NA,120
+Eye of Magnus,Classless,60,5 (Average),NA,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,60,5,NA,22
+Lunic Eye,Classless,32,4.5 (Average),NA,22 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,32,4.5,NA,22
+Relic of Deliverance,Classless,1700,0 (No Knockback),NA,35 (Very Slow),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,1700,0,NA,35
+Skynamite,Classless,250,0 (No Knockback),NA,39 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,250,0,NA,39
+Star Struck Water,Classless,20,3 (Very Weak),NA,15 (Average),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,20,3,NA,15
+Stratus Sphere,Classless,400,5 (Average),NA,40 (Extremely Slow),Calamity,https://calamitymod.wiki.gg/wiki/Classless_weapons,400,5,NA,40

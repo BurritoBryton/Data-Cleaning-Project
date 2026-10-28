@@ -1,0 +1,12 @@
+source,weapon_class,entries,missing_damage,median_damage
+Calamity,Classless,9,0,200
+Calamity,Magic,146,0,72
+Calamity,Melee,193,0,115
+Calamity,Ranged,169,0,78
+Calamity,Rogue,149,0,66
+Calamity,Summon,102,0,55.5
+Terraria,Magic,81,0,40
+Terraria,Melee,313,0,29
+Terraria,Ranged,112,0,26.5
+Terraria,Summon,64,0,34.5
+Terraria,Unclassified,33,5,100
